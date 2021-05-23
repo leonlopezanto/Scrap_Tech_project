@@ -1,0 +1,17 @@
+--------------------------------------------------------------------------------------------------PcComponentes
+Si no existe, se crea columna update
+if 'A' in df.columns
+
+-Datos de actual que no están en anterior
+Buscamos componentes que se han añadido recientemente, novedades añadidas
+
+Buscamos una actualización en el precio de componentes en actual con respecto a anterior.
+Si cambia, se actualiza update
+Comparamos el precio actual con respecto al anterior para ver si ha subido o bajado.
+	En caso de que el elemento no exista en tabla actual, el precio actual será 0
+
+-Datos de anterior que ya no están en actual
+Buscamos componentes que se han eliminado de la oferta y los ponemos como "No disponibles"
+
+actualizamos UPDATE al momento de la actualizacion
+-Datos de actual que ya no están en anterior

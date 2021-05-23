@@ -1,0 +1,52 @@
+********************************************************************************************
+Fecha de extraccion: Scrap_18-01_18-05.txt
+Araña:
+	Wipoid
+	PcComponentes
+Tiempo de extraccion: 103.1902089993159
+********************************************************************************************
+
+
+------------------------------------Datos de limpieza de :./pccomponentes/18-01_18-05_pccomponentes.json
+
+Numero de reacondicionados: 129
+Los campos nulos sonInt64Index([2165], dtype='int64')
+Informacion duplicados:
+ No existen duplicados
+
+Informacion dataset:
+
+Descripcion:
+            precio
+count  4829.000000
+mean    137.642334
+std     213.075898
+min       0.980000
+25%      46.980000
+50%      87.600000
+75%     157.910000
+max    5699.900000
+Numero de filas: 4829
+Numero de columnas: 8
+
+
+------------------------------------Datos de limpieza de :./wipoid/18-01_18-05_wipoid.json
+No hay campos nulos
+Informacion duplicados:
+               id_item                                        nombre
+1521  TM8FP5512G0C110  Team Group Cardea II 512GB SSD M.2 NVMe PCIe
+
+Informacion dataset:
+
+Descripcion:
+            precio
+count  2010.000000
+mean    170.642841
+std     288.386042
+min       1.200000
+25%      57.900000
+50%      99.900000
+75%     177.362500
+max    5695.000000
+Numero de filas: 2010
+Numero de columnas: 7
