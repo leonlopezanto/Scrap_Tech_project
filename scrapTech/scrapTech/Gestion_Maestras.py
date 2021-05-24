@@ -27,18 +27,23 @@ def get_fecha(tipo = ''):
 
 
 class Gestion_maestras:
-    def __init__(self, entrante='', maestra=''):
+    def __init__(self, web='', entrante='', maestra='', nombre=''):
       
         #Elimina la excepcion. NO nos importa
         pd.set_option('mode.chained_assignment', None)
         
-        
+
         #Ruta y nombre donde guardar la tabla maestra
-        self.rutaMaestras = './procesados/maestras/' 
-        self.nuevoNombre = get_fecha() + '_maestra.json'
+        self.rutaMaestras = './procesados/maestras/' + web + '/' 
+        
+        if not nombre:
+            self.nuevoNombre = get_fecha() + '_maestra_' + web +'.json'
+        else:
+            self.nuevoNombre = nombre + '_maestra_' + web +'.json'
+            
         self.rutaGuardado = self.rutaMaestras + self.nuevoNombre
         
-        self.info = Informe('Maestra')
+        self.info = Informe('Maestra', web=web, name=nombre)
         
         #Cargamos las dos ultimas tablas
         # maestra = 'procesados/maestra_original.json' = anterior
@@ -48,27 +53,27 @@ class Gestion_maestras:
         
         if not maestra:
             #Cargar ultima tabla maestra
-            print('Cargando ultima maestra: ' + maestra)
-            maestra = self.obtenerUltimaMaestra()
-            self.maestra = self.loader.cargar_datos(self.rutaMaestras + maestra)
-        
+            maestra = self.obtenerUltimaMaestra(web)
+
         print('Cargando maestra: ' + maestra)
         self.maestra = self.loader.cargar_datos(self.rutaMaestras + maestra)
-        
+        # self.maestra.set_index('id_item')
+
         if not entrante:
             print('No sabe con qué comparar')
         else:
             print('Cargando entrante: ' + entrante)
             self.entrante = self.loader.cargar_datos(entrante)
+            # self.entrante.set_index('id_item')
 
         
         #Aniadimos nombres de docs a procesar:    
         self.info.escribirInfo('Maestra: ' + maestra)
         self.info.escribirInfo('Entrante: ' + entrante)
+        pd.set_option('display.max_rows', 4000000)
         
         
-        
-    def obtenerUltimaMaestra(self):
+    def obtenerUltimaMaestra(self, web):
         """
         Carga la tabla Maestra más reciente
 
@@ -77,7 +82,7 @@ class Gestion_maestras:
         files = os.listdir(self.rutaMaestras)
         
         #Limpiamos el nombre
-        extraerFinal = '_maestra.json'
+        extraerFinal = '_maestra_' + web +'.json'
         dates = [x.replace(extraerFinal, '') for x in files]
         
         #Ordenamos las tablas segun fechas en orden inverso
@@ -89,8 +94,8 @@ class Gestion_maestras:
 
     def condicion_precio(self, entrante, maestra):
         conditions = [
-            (entrante['precio'] < maestra['precio']),
             (entrante['precio'] > maestra['precio']),
+            (entrante['precio'] < maestra['precio']),
             (entrante['precio'] == maestra['precio'])
             ]
         
@@ -112,15 +117,30 @@ class Gestion_maestras:
     
         """
         #Comprobamos los componentes de maestra que coinciden con la entrante y entrante que coinciden con maestra
-        en = self.entrante[(self.entrante.id_item.isin(self.maestra.id_item))].reset_index()
-        maestra = self.maestra[(self.maestra.id_item.isin(self.entrante.id_item))].reset_index()
+        en = self.entrante[(self.entrante.id_item.isin(self.maestra.id_item))]
+        maestra = self.maestra[(self.maestra.id_item.isin(self.entrante.id_item))]
+        
+        #ARREGLO PARA LOS INDICES:
+        #Se asigna id_item como indice y se evita que se borre
+        en = en.set_index('id_item', drop=False)
+        maestra = maestra.set_index('id_item', drop=False)
+        
+        #Se ordenan los indices
+        en = en.sort_index()
+        maestra = maestra.sort_index()
+        
+        # en['index2'] = en['id_item']
+        # maestra['index2'] = maestra['id_item']
+        
+        # en = en.set_index('index2')
+        # maestra = maestra.set_index('index2')
         
         conditions, values = self.condicion_precio(en, maestra)
         
         
         #Utilizamos el metodo select de Numpy para actualizar la columna precio_upd
         maestra['precio_upd'] = np.select(conditions, values)
-        
+
         #INFORME: ELEMENTOS QUE HAN CAMBIADO DE PRECIO
         self.info.escribirInfo('------------------------------------------------------------------------------------------')
         self.info.escribirInfo('Componentes que han cambiado el precio: ' + str(maestra[maestra['precio'] != en['precio']]['id_item'].count()))
@@ -147,8 +167,13 @@ class Gestion_maestras:
         #Actualizar disponibilidad
         maestra['disponible'] = np.where(maestra['disponible'] != en['disponible'], en['disponible'], maestra['disponible'])
         
-
-        del maestra['index']
+        
+        # del maestra['index']
+        #maestra = maestra.reset_index()
+        # del maestra['index']
+        
+        # en = en.reset_index()
+        # del en['index']
         
         return maestra
     
@@ -213,14 +238,22 @@ class Gestion_maestras:
         print("Guardando: " + self.rutaGuardado)
         self.loader.guardar_datos(maestra, self.rutaGuardado)
         time.sleep(0.8)
+        #Desactivamos la opcion para que no escriba todo
+        pd.set_option('display.max_rows', 10)
+       
         
+# f = ['14-01_09-04_pccomponentes', '20-23_09-04_pccomponentes', '20-40_09-04_pccomponentes']
 
-m = 'maestra_original.json'
-e = './procesados/entrante.json'
+# for i in f:
+#     g = Gestion_maestras('./procesados/' + i + '.json')
+#     g.proceso()
 
-g = Gestion_maestras(e, m)
+# m = 'maestra_original.json'
+# e = './procesados/entrante.json'
 
-g.proceso()    
+# g = Gestion_maestras(e, m)
+
+# g.proceso()    
 
 
 

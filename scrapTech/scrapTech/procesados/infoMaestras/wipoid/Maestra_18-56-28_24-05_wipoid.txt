@@ -1,0 +1,121 @@
+********************************************************************************************
+Fecha de creacion: Maestra_18-56-28_24-05_wipoid.txt
+********************************************************************************************
+WEB: wipoid
+Maestra: 18-56-27_24-05_maestra_wipoid.json
+Entrante: ./wipoid/20-21_15-04_wipoid.json
+------------------------------------------------------------------------------------------
+Componentes que han cambiado el precio: 46
+Suben de precio: 24
+id_item
+220-G5-0650-X2                    220-G5-0650-X2
+90MB0ZB0-M0EAY0                  90MB0ZB0-M0EAY0
+90YV0DT1-M0NA00                  90YV0DT1-M0NA00
+911-7C81-004                        911-7C81-004
+911-7C83-002                        911-7C83-002
+AFACO-090P0-GBA01              AFACO-090P0-GBA01
+ASX8200PNP-256GT-C            ASX8200PNP-256GT-C
+BN303                                      BN303
+BX80684I99900KF                  BX80684I99900KF
+BX8070110100F                      BX8070110100F
+BX8070110400                        BX8070110400
+CA-H510i-BR                          CA-H510i-BR
+CSSD-F480GBMP510B              CSSD-F480GBMP510B
+F4-3200C16D-32GTZRX          F4-3200C16D-32GTZRX
+F4-3600C16D-32GTRSC          F4-3600C16D-32GTRSC
+FOCUS-GX-750                        FOCUS-GX-750
+HX430C15FB3K2/16                HX430C15FB3K2/16
+HX432C16PB3/32                    HX432C16PB3/32
+LANCOOLII-X                          LANCOOLII-X
+NH-D15S chromax.blac        NH-D15S chromax.blac
+TLZRD432G3200HC16FDC01    TLZRD432G3200HC16FDC01
+WDS250G2B0A                          WDS250G2B0A
+Z590 AORUS ELITE                Z590 AORUS ELITE
+ZT-A30900J-10P                    ZT-A30900J-10P
+Name: id_item, dtype: object
+Bajan de precio: 22
+id_item
+306-7G10M21-W57            306-7G10M21-W57
+7D04-001R                        7D04-001R
+7D06-003R                        7D06-003R
+90-MXBCV0-A0UAYZ          90-MXBCV0-A0UAYZ
+B365M-DS3H                      B365M-DS3H
+BN282                                BN282
+BN283                                BN283
+BN284                                BN284
+BN298                                BN298
+BP-WG750UMAG-9FM          BP-WG750UMAG-9FM
+BX8070811900K                BX8070811900K
+CA-1P8-00M1WN-00          CA-1P8-00M1WN-00
+CSSD-F1000GBMP600        CSSD-F1000GBMP600
+F4-3200C16D-32GVK        F4-3200C16D-32GVK
+MZ-76P512B/EU                MZ-76P512B/EU
+NF-S12A PWM                    NF-S12A PWM
+NXHUMMER850GD                NXHUMMER850GD
+SA2000M8/500G                SA2000M8/500G
+SCKTT-2000                      SCKTT-2000
+SF-750F14HG                    SF-750F14HG
+WD10EZRZ                          WD10EZRZ
+Z590 AORUS ELITE AX    Z590 AORUS ELITE AX
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Elementos que vuelven a estar disponibles: 35
+id_item
+4044951019328                            4044951019328
+831101                                          831101
+90MB0ZB0-M0EAY0                        90MB0ZB0-M0EAY0
+90MB1660-M0EAY0                        90MB1660-M0EAY0
+90MB17A0-M0EAY0                        90MB17A0-M0EAY0
+90YV0EH0-M0NA00                        90YV0EH0-M0NA00
+911-7C73-002                              911-7C73-002
+911-7C81-004                              911-7C81-004
+911-7C83-002                              911-7C83-002
+911-7C83-005                              911-7C83-005
+AC-045-CN1OTN-C1                      AC-045-CN1OTN-C1
+AFACO-090P0-GBA01                    AFACO-090P0-GBA01
+BN315                                            BN315
+BX8070110300                              BX8070110300
+BX8070110400                              BX8070110400
+CA-1M7-00M1WN-00                      CA-1M7-00M1WN-00
+CA-1P8-00M1WN-00                      CA-1P8-00M1WN-00
+CA-1Q6-00M1WN-00                      CA-1Q6-00M1WN-00
+CO-9050050-WW                            CO-9050050-WW
+CP-9020139-EU                            CP-9020139-EU
+CP-9020194-EU                            CP-9020194-EU
+F4-3600C16D-32GTRSC                F4-3600C16D-32GTRSC
+FD-C-DEF7A-06                            FD-C-DEF7A-06
+FD-CA-ERA-ITX-BU                      FD-CA-ERA-ITX-BU
+FD-CA-MESH-C-MINI-BKO-TGD    FD-CA-MESH-C-MINI-BKO-TGD
+HX432C16PB3/32                          HX432C16PB3/32
+INSPIRE K6                                  INSPIRE K6
+MZ-76P512B/EU                            MZ-76P512B/EU
+NH-U9S                                          NH-U9S
+NXHUMMER850GD                            NXHUMMER850GD
+PH-EC416PSTG_AG                        PH-EC416PSTG_AG
+SKC600/256G                                SKC600/256G
+SKC600/512G                                SKC600/512G
+YD3200C5FHBOX                            YD3200C5FHBOX
+Z590 AORUS ELITE                      Z590 AORUS ELITE
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Componentes nuevos: 8
+345         ETS-T50A-W-ARGB
+495     CMW32GX4M2E3200C16W
+1121          B550 VISION D
+1263        B550M AORUS PRO
+1265           911-7C90-002
+1266              B550M S2H
+1268     B550I AORUS PRO AX
+1732        90MB11K0-M0EAY0
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Componentes sin stock: 1
+1810    0
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------

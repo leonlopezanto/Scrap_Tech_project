@@ -1,0 +1,97 @@
+********************************************************************************************
+Fecha de creacion: Maestra_18-57-07_24-05_wipoid.txt
+********************************************************************************************
+WEB: wipoid
+Maestra: 18-57-06_24-05_maestra_wipoid.json
+Entrante: ./wipoid/23-02_19-05_wipoid.json
+------------------------------------------------------------------------------------------
+Componentes que han cambiado el precio: 39
+Suben de precio: 21
+id_item
+CA-1L4-00M1WN-02          CA-1L4-00M1WN-02
+CA-1P2-00M1WN-00          CA-1P2-00M1WN-00
+CA-1P4-00M1WN-00          CA-1P4-00M1WN-00
+CA-1Q4-00M1WN-00          CA-1Q4-00M1WN-00
+CA-1Q6-00M1WN-00          CA-1Q6-00M1WN-00
+CA-1Q6-00M6WN-00          CA-1Q6-00M6WN-00
+CA-1R1-00S1WN-00          CA-1R1-00S1WN-00
+CA-1R3-00S1WN-00          CA-1R3-00S1WN-00
+CA-1R4-00S1WN-00          CA-1R4-00S1WN-00
+CA-1R5-00M1WN-00          CA-1R5-00M1WN-00
+CL-F063-PL12SW-A          CL-F063-PL12SW-A
+CL-F064-PL14SW-A          CL-F064-PL14SW-A
+CL-F072-PL12SW-A          CL-F072-PL12SW-A
+CL-F073-PL12SW-A          CL-F073-PL12SW-A
+CL-F078-PL14SW-A          CL-F078-PL14SW-A
+CL-F079-PL12SW-A          CL-F079-PL12SW-A
+CL-F080-PL14SW-A          CL-F080-PL14SW-A
+CL-F088-PL12SW-A          CL-F088-PL12SW-A
+CL-P039-AL12BL-A          CL-P039-AL12BL-A
+PS-LTP-0550NPCNEU-2    PS-LTP-0550NPCNEU-2
+PS-SPD-0650NNSABE-1    PS-SPD-0650NNSABE-1
+Name: id_item, dtype: object
+Bajan de precio: 18
+id_item
+CA-1I7-00F1WN-03          CA-1I7-00F1WN-03
+CA-1J7-00M1WN-04          CA-1J7-00M1WN-04
+CA-1M7-00M1WN-00          CA-1M7-00M1WN-00
+CA-1M8-00M1WN-00          CA-1M8-00M1WN-00
+CA-1P1-00M1WN-00          CA-1P1-00M1WN-00
+CA-1P5-00M6WN-00          CA-1P5-00M6WN-00
+CA-1P6-00F1WN-00          CA-1P6-00F1WN-00
+CA-1Q9-00S1WN-00          CA-1Q9-00S1WN-00
+CA-1Q9-00S6WN-00          CA-1Q9-00S6WN-00
+CA-1R3-00S6WN-00          CA-1R3-00S6WN-00
+CA-1R8-00M1WN-00          CA-1R8-00M1WN-00
+CL-F089-PL14SW-A          CL-F089-PL14SW-A
+CL-F116-PL14SW-A          CL-F116-PL14SW-A
+CL-P065-AL12SW-A          CL-P065-AL12SW-A
+PS-SPD-0750NNSABE-1    PS-SPD-0750NNSABE-1
+PS-SPR-0600NHSAWE-1    PS-SPR-0600NHSAWE-1
+PS-SPR-0700NHSAWE-1    PS-SPR-0700NHSAWE-1
+PS-SPS-0600MNSAWE-1    PS-SPS-0600MNSAWE-1
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Elementos que vuelven a estar disponibles: 0
+Series([], Name: id_item, dtype: object)
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Componentes nuevos: 13
+1746                 DP-MCAL-GA
+1747            RR-2V2E-18PK-R1
+1748                      BK005
+1749                  GP-ATC800
+1788           DP-FRGB-RF140-2C
+1790         DP-FRGB-RF120-5C-M
+1791           DP-FRGB-RF120-3C
+1792          DP-FA-RGB-CF140-2
+1793        DP-F12-AR-CF120P-3P
+1794    DP-GS-F12-AR-MF120GT-3P
+1951               911-7D14-006
+1952               911-7C95-017
+1953               911-7C96-006
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Componentes sin stock: 15
+2026           FD-PSU-ION-SFX-650G-BK-EU
+2027    ZT-A30600F-10P / 90MB11N0-M0EAY0
+2028                      100-GD-0700-V1
+2029                           7D09-003R
+2030                               XF140
+2031                        11295-05-20G
+2032                               83281
+2033                     90YV0DP1-M0NM00
+2034                     AK-340106-020-S
+2035                      CT500MX500SSD4
+2036                  MCB-B311L-KGNN-S01
+2037                            WD30EFRX
+2038                            WD80EFAX
+2039    ZT-A30600F-10P / 90YE00D1-B0NA00
+2040                                   0
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------

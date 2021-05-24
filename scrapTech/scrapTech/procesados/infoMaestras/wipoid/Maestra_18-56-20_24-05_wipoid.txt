@@ -1,0 +1,98 @@
+********************************************************************************************
+Fecha de creacion: Maestra_18-56-20_24-05_wipoid.txt
+********************************************************************************************
+WEB: wipoid
+Maestra: 18-56-19_24-05_maestra_wipoid.json
+Entrante: ./wipoid/11-57_12-04_wipoid.json
+------------------------------------------------------------------------------------------
+Componentes que han cambiado el precio: 37
+Suben de precio: 27
+id_item
+70SB150000001                            70SB150000001
+90-MXBAR0-A0UAYZ                      90-MXBAR0-A0UAYZ
+90MB1360-M0EAY0                        90MB1360-M0EAY0
+90YV0E42-M0NA00                        90YV0E42-M0NA00
+911-7C81-004                              911-7C81-004
+911-7C95-001                              911-7C95-001
+AP240GAS340G-1                          AP240GAS340G-1
+ASU630SS-240GQ-R                      ASU630SS-240GQ-R
+ASX6000PNP-256GT-C                  ASX6000PNP-256GT-C
+BFC-NVM-300-WWGKW                    BFC-NVM-300-WWGKW
+BL2K16G32C16U4B                        BL2K16G32C16U4B
+BL2K8G32C16U4BL                        BL2K8G32C16U4BL
+F4-3200C16D-16GTZN                  F4-3200C16D-16GTZN
+F4-3600C18D-16GTZRX                F4-3600C18D-16GTZRX
+FD-CA-MESH-C-MINI-BKO-TGD    FD-CA-MESH-C-MINI-BKO-TGD
+MAM-D7PN-DWRPS-T                      MAM-D7PN-DWRPS-T
+MCZP                                              MCZP
+P210S1TB25                                  P210S1TB25
+PBU120GS25SSDR                          PBU120GS25SSDR
+PH-EC400ATG_DBK01                    PH-EC400ATG_DBK01
+PH-EC400ATG_DWT01                    PH-EC400ATG_DWT01
+PH-EC500ATG_BK01                      PH-EC500ATG_BK01
+PH-EC500ATG_DWT01                    PH-EC500ATG_DWT01
+PH-EC600PSTG_WT01                    PH-EC600PSTG_WT01
+PVB48G300C6K                              PVB48G300C6K
+SDSSDA-240G-G26                        SDSSDA-240G-G26
+TM8FP5512G0C110                        TM8FP5512G0C110
+Name: id_item, dtype: object
+Bajan de precio: 10
+id_item
+90-MXBDQ0-A0UAYZ          90-MXBDQ0-A0UAYZ
+911-7C56-001                  911-7C56-001
+CMT16GX4M2Z3200C16W    CMT16GX4M2Z3200C16W
+CSSD-F240GBMP510          CSSD-F240GBMP510
+CSSD-F960GBMP510B        CSSD-F960GBMP510B
+HX430C15FB3K2/16          HX430C15FB3K2/16
+SDSSDXPM2-500G-G25      SDSSDXPM2-500G-G25
+TM8FP5512G0C110            TM8FP5512G0C110
+VCQP4000-PB                    VCQP4000-PB
+Z590 GAMING X                Z590 GAMING X
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Elementos que vuelven a estar disponibles: 29
+id_item
+100-100000163WOF                      100-100000163WOF
+100-GD-0700-V1                          100-GD-0700-V1
+90-MXBF00-A0UAYZ                      90-MXBF00-A0UAYZ
+90MB1360-M0EAY0                        90MB1360-M0EAY0
+90YV0E42-M0NA00                        90YV0E42-M0NA00
+911-7C81-004                              911-7C81-004
+911-7C95-001                              911-7C95-001
+AP240GAS340G-1                          AP240GAS340G-1
+BFC-NVM-300-WWGKW                    BFC-NVM-300-WWGKW
+BFC-NVM-300-WWGKW-4A              BFC-NVM-300-WWGKW-4A
+BL2K16G32C16U4B                        BL2K16G32C16U4B
+BN297                                            BN297
+CC-9011200-WW                            CC-9011200-WW
+CMT16GX4M2Z3200C16W                CMT16GX4M2Z3200C16W
+CP-9020105-EU                            CP-9020105-EU
+CP-9020196-EU                            CP-9020196-EU
+CRONOS800                                    CRONOS800
+FD-CA-MESH-C-MINI-BKO-TGD    FD-CA-MESH-C-MINI-BKO-TGD
+MCZP                                              MCZP
+MZ-76E500B/EU                            MZ-76E500B/EU
+NXHUMMERTGF                                NXHUMMERTGF
+PH-EC500ATG_BK01                      PH-EC500ATG_BK01
+PH-EC500ATG_DWT01                    PH-EC500ATG_DWT01
+PH-EC600PSTG_WT01                    PH-EC600PSTG_WT01
+PVB48G300C6K                              PVB48G300C6K
+SDSSDA-240G-G26                        SDSSDA-240G-G26
+SST-ST85F-PT                              SST-ST85F-PT
+VCQP4000-PB                                VCQP4000-PB
+VCQRTX4000-PB                            VCQRTX4000-PB
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Componentes nuevos: 0
+Series([], Name: id_item, dtype: object)
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Componentes sin stock: 1
+1781    0
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
