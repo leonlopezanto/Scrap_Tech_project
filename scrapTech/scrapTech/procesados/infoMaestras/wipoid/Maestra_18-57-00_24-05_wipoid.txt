@@ -1,0 +1,163 @@
+********************************************************************************************
+Fecha de creacion: Maestra_18-57-00_24-05_wipoid.txt
+********************************************************************************************
+WEB: wipoid
+Maestra: 18-56-59_24-05_maestra_wipoid.json
+Entrante: ./wipoid/12-35_18-05_wipoid.json
+------------------------------------------------------------------------------------------
+Componentes que han cambiado el precio: 70
+Suben de precio: 25
+id_item
+100-100000011WOF                100-100000011WOF
+100-100000279WOF                100-100000279WOF
+110-BQ-0500-K2                    110-BQ-0500-K2
+90-MXB9U0-A0UAYZ                90-MXB9U0-A0UAYZ
+90-MXBEJ0-A0UAYZ                90-MXBEJ0-A0UAYZ
+90-MXBFY0-A0UAYZ                90-MXBFY0-A0UAYZ
+AGAMMIXS11P-2TT-C              AGAMMIXS11P-2TT-C
+BL2K16G36C16U4B                  BL2K16G36C16U4B
+BL2K8G26C16U4B                    BL2K8G26C16U4B
+CA-1P5-00M6WN-00                CA-1P5-00M6WN-00
+CA-1Q4-00M1WN-00                CA-1Q4-00M1WN-00
+CA-1Q6-00M6WN-00                CA-1Q6-00M6WN-00
+CRONUSBK                                CRONUSBK
+F4-3000C16Q-32GTZR            F4-3000C16Q-32GTZR
+F4-3600C18Q-32GTZN            F4-3600C18Q-32GTZN
+HX436C18FB3AK2/64              HX436C18FB3AK2/64
+MZ-V8V250BW                          MZ-V8V250BW
+NXLite030                              NXLite030
+SENTINEL                                SENTINEL
+ST6000DM003                          ST6000DM003
+STEB4000200                          STEB4000200
+TDZAD416G3200HC16CDC01    TDZAD416G3200HC16CDC01
+TTCCD416G3200HC22DC01      TTCCD416G3200HC22DC01
+WD60EFAX                                WD60EFAX
+YD2600BBAFBOX                      YD2600BBAFBOX
+Name: id_item, dtype: object
+Bajan de precio: 45
+id_item
+0R20B00197                            0R20B00197
+101 Black                              101 Black
+220-GT-0650-Y2                    220-GT-0650-Y2
+90-MXB6T0-A0UAYZ                90-MXB6T0-A0UAYZ
+911-7B89-020                        911-7B89-020
+AGAMMIXS70-1T-C                  AGAMMIXS70-1T-C
+AS40G-2TT-C                          AS40G-2TT-C
+ASU650SS-120GT-R                ASU650SS-120GT-R
+ASU800SS-512GT-C                ASU800SS-512GT-C
+B12-BC-550                            B12-BC-550
+B12-BC-650                            B12-BC-650
+B12-BC-850                            B12-BC-850
+B560M DS3H                            B560M DS3H
+BX8070110600                        BX8070110600
+BX8070811600KF                    BX8070811600KF
+CMV8GX3M1A1600C11              CMV8GX3M1A1600C11
+CSSD-F240GBMP510                CSSD-F240GBMP510
+F4-3000C15D-16GTZR            F4-3000C15D-16GTZR
+F4-3200C14Q-32GFX              F4-3200C14Q-32GFX
+F4-3200C14Q-64GTZR            F4-3200C14Q-64GTZR
+F4-3200C16D-32GTZR            F4-3200C16D-32GTZR
+F4-3200C16Q-64GFX              F4-3200C16Q-64GFX
+F4-3200C16Q-64GTZR            F4-3200C16Q-64GTZR
+F4-3600C16D-32GTZR            F4-3600C16D-32GTZR
+F4-3600C16Q-64GVKC            F4-3600C16Q-64GVKC
+F4-3600C18Q-64GTZN            F4-3600C18Q-64GTZN
+F4-3600C18Q2-256GTZN        F4-3600C18Q2-256GTZN
+G12-GC-750                            G12-GC-750
+G12-GC-850                            G12-GC-850
+G99.12UF1B.00                      G99.12UF1B.00
+HX432C16FB3K2/32                HX432C16FB3K2/32
+HX432C16PB3/32                    HX432C16PB3/32
+HX436C18FB3A/32                  HX436C18FB3A/32
+MCB-B520-KANN-S00              MCB-B520-KANN-S00
+MX400                                      MX400
+MZ-V8P2T0BW                          MZ-V8P2T0BW
+NXHUMMERH224NOIR                NXHUMMERH224NOIR
+PBU960GS25SSDR                    PBU960GS25SSDR
+SA400S37/960G                      SA400S37/960G
+SDSSDA-240G-G26                  SDSSDA-240G-G26
+T253TM500G3C302                  T253TM500G3C302
+TDZAD432G3600HC18JDC01    TDZAD432G3600HC18JDC01
+TED48G2400C1601                  TED48G2400C1601
+X570 AORUS MASTER              X570 AORUS MASTER
+YD1600BBAFBOX                      YD1600BBAFBOX
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Elementos que vuelven a estar disponibles: 45
+id_item
+100-100000010WOF                      100-100000010WOF
+100-100000011WOF                      100-100000011WOF
+100-100000279WOF                      100-100000279WOF
+100-W1-0600-K2                          100-W1-0600-K2
+10G-P5-3885-KR                          10G-P5-3885-KR
+61GC5700A0AB                              61GC5700A0AB
+90-MXB5Q0-A0UAYZ                      90-MXB5Q0-A0UAYZ
+90-MXBEL0-A0UAYZ                      90-MXBEL0-A0UAYZ
+90-MXBEZ0-A0UAYZ                      90-MXBEZ0-A0UAYZ
+90MB10T0-M0EAY0                        90MB10T0-M0EAY0
+90MB1760-M0EAY0                        90MB1760-M0EAY0
+90YV0AU0-M0NA00                        90YV0AU0-M0NA00
+90YV0EZ1-M0NA00                        90YV0EZ1-M0NA00
+AGAMMIXS11P-2TT-C                    AGAMMIXS11P-2TT-C
+AS40G-2TT-C                                AS40G-2TT-C
+BL2K16G36C16U4B                        BL2K16G36C16U4B
+BX80684I79700K                          BX80684I79700K
+BX80684I79700KF                        BX80684I79700KF
+BX80684I99900KF                        BX80684I99900KF
+BX80701G6600                              BX80701G6600
+CA-1P5-00M6WN-00                      CA-1P5-00M6WN-00
+CA-1Q4-00M1WN-00                      CA-1Q4-00M1WN-00
+CA-1Q6-00M6WN-00                      CA-1Q6-00M6WN-00
+CA-1R3-00S1WN-00                      CA-1R3-00S1WN-00
+CC-9011201-WW                            CC-9011201-WW
+DP-ATX-MATREXX50-AR-4F-NE    DP-ATX-MATREXX50-AR-4F-NE
+F4-3200C14Q-64GTZR                  F4-3200C14Q-64GTZR
+F4-3200C16Q-64GFX                    F4-3200C16Q-64GFX
+F4-3600C16D-32GTRSC                F4-3600C16D-32GTRSC
+F4-3600C16D-32GTZR                  F4-3600C16D-32GTZR
+F4-3600C18D-32GVK                    F4-3600C18D-32GVK
+HX432C16FB3K4/128                    HX432C16FB3K4/128
+HX436C18FB3K2/64                      HX436C18FB3K2/64
+HX436C18FB3K4/128                    HX436C18FB3K4/128
+MZ-V8P2T0BW                                MZ-V8P2T0BW
+NXHUMMERH224NOIR                      NXHUMMERH224NOIR
+NXKORE                                          NXKORE
+NXLite030                                    NXLite030
+PH-EC600PSC_BK01                      PH-EC600PSC_BK01
+PVB464G320C6K                            PVB464G320C6K
+ST6000DM003                                ST6000DM003
+TDZRD432G3600HC18J                  TDZRD432G3600HC18J
+TTCCD416G3200HC22DC01            TTCCD416G3200HC22DC01
+Z490 VISION G                            Z490 VISION G
+Z590 AORUS XTREME                    Z590 AORUS XTREME
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Componentes nuevos: 2
+302    NH-U14S TR4-SP3
+332         NF-A15 PWM
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Componentes sin stock: 15
+2006           FD-PSU-ION-SFX-650G-BK-EU
+2007    ZT-A30600F-10P / 90MB11N0-M0EAY0
+2008                      100-GD-0700-V1
+2009                           7D09-003R
+2010                               XF140
+2011                        11295-05-20G
+2012                               83281
+2013                     90YV0DP1-M0NM00
+2014                     AK-340106-020-S
+2015                      CT500MX500SSD4
+2016                  MCB-B311L-KGNN-S01
+2017                            WD30EFRX
+2018                            WD80EFAX
+2019    ZT-A30600F-10P / 90YE00D1-B0NA00
+2020                                   0
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------

@@ -1,0 +1,67 @@
+********************************************************************************************
+Fecha de creacion: Maestra_18-57-10_24-05_wipoid.txt
+********************************************************************************************
+WEB: wipoid
+Maestra: 18-57-09_24-05_maestra_wipoid.json
+Entrante: ./wipoid/14-55_20-05_wipoid.json
+------------------------------------------------------------------------------------------
+Componentes que han cambiado el precio: 15
+Suben de precio: 6
+id_item
+ASX6000PNP-256GT-C            ASX6000PNP-256GT-C
+ASX8200PNP-1TT-C                ASX8200PNP-1TT-C
+OBSERVATORY LITE MESH      OBSERVATORY LITE MESH
+R019D408GX2-3200C16A        R019D408GX2-3200C16A
+TLZGD416G3200HC16CDC01    TLZGD416G3200HC16CDC01
+TM8FP5512G0C110                  TM8FP5512G0C110
+Name: id_item, dtype: object
+Bajan de precio: 9
+id_item
+306-7G09M61-W57            306-7G09M61-W57
+911-7C60-001                  911-7C60-001
+911-7C60-005                  911-7C60-005
+CSSD-F1920GBMP510        CSSD-F1920GBMP510
+F4-3200C16D-32GTZR      F4-3200C16D-32GTZR
+PS-TPD-0750FNFAGE-1    PS-TPD-0750FNFAGE-1
+PS-TPD-0850FNFAGE-1    PS-TPD-0850FNFAGE-1
+SA400S37/480G                SA400S37/480G
+TM8FP5512G0C110            TM8FP5512G0C110
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Elementos que vuelven a estar disponibles: 4
+id_item
+08G-P5-3663-KR      08G-P5-3663-KR
+CC-9011075-WW        CC-9011075-WW
+TM8FP5512G0C110    TM8FP5512G0C110
+TM8FP5512G0C110    TM8FP5512G0C110
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Componentes nuevos: 0
+Series([], Name: id_item, dtype: object)
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Componentes sin stock: 17
+897                     CA-1P8-00M1WN-00
+988                     CL-F077-PL14SW-A
+2040           FD-PSU-ION-SFX-650G-BK-EU
+2041    ZT-A30600F-10P / 90MB11N0-M0EAY0
+2042                      100-GD-0700-V1
+2043                           7D09-003R
+2044                               XF140
+2045                        11295-05-20G
+2046                               83281
+2047                     90YV0DP1-M0NM00
+2048                     AK-340106-020-S
+2049                      CT500MX500SSD4
+2050                  MCB-B311L-KGNN-S01
+2051                            WD30EFRX
+2052                            WD80EFAX
+2053    ZT-A30600F-10P / 90YE00D1-B0NA00
+2054                                   0
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------

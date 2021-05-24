@@ -1,0 +1,132 @@
+********************************************************************************************
+Fecha de creacion: Maestra_18-57-17_24-05_wipoid.txt
+********************************************************************************************
+WEB: wipoid
+Maestra: 18-57-16_24-05_maestra_wipoid.json
+Entrante: ./wipoid/11-37_24-05_wipoid.json
+------------------------------------------------------------------------------------------
+Componentes que han cambiado el precio: 45
+Suben de precio: 28
+id_item
+100-100000010WOF                100-100000010WOF
+100-100000086WOF                100-100000086WOF
+385VM60.0005                        385VM60.0005
+75260051                                75260051
+7B84-017R                              7B84-017R
+911-7A38-043                        911-7A38-043
+911-7C60-005                        911-7C60-005
+911-7C75-003                        911-7C75-003
+BFC-ESM-150-KKWGK              BFC-ESM-150-KKWGK
+BX8069510980XE                    BX8069510980XE
+BX8070110700K                      BX8070110700K
+BX8070811400F                      BX8070811400F
+CMK32GX4M2A2666C16            CMK32GX4M2A2666C16
+GP-ASM2NE6100TTTD              GP-ASM2NE6100TTTD
+M9A                                          M9A
+MCB-K501L-KANN-S00            MCB-K501L-KANN-S00
+MCB-K501L-KGNN-SR1            MCB-K501L-KGNN-SR1
+NF-A14 iPPC-2000 IP67      NF-A14 iPPC-2000 IP67
+NF-S12A ULN                          NF-S12A ULN
+NH-D15S                                  NH-D15S
+ST6000DM003                          ST6000DM003
+TLZRD432G3200HC16FDC01    TLZRD432G3200HC16FDC01
+TM8FP5512G0C110                  TM8FP5512G0C110
+WD4005FZBX                            WD4005FZBX
+WDS100T1R0A                          WDS100T1R0A
+WDS100T3X0C                          WDS100T3X0C
+ZP2000GM30021                      ZP2000GM30021
+ZP500GM3A002                        ZP500GM3A002
+Name: id_item, dtype: object
+Bajan de precio: 17
+id_item
+3831109880128                3831109880128
+90-MXBBT0-A0UAYZ          90-MXBBT0-A0UAYZ
+90-MXBE60-A0UAYZ          90-MXBE60-A0UAYZ
+90MB1810-M0EAY1            90MB1810-M0EAY1
+90MB1880-M0EAY0            90MB1880-M0EAY0
+B560M AORUS ELITE        B560M AORUS ELITE
+BL2K8G26C16U4B              BL2K8G26C16U4B
+BP-FM550ULAG-9R            BP-FM550ULAG-9R
+CMK32GX4M2A2400C16      CMK32GX4M2A2400C16
+F4-3200C16Q2-256GVK    F4-3200C16Q2-256GVK
+F4-3600C16D-32GTZR      F4-3600C16D-32GTZR
+HX432C16PB3A/8              HX432C16PB3A/8
+SS-650GB                          SS-650GB
+T253X5240G0C101            T253X5240G0C101
+TM8FP5512G0C110            TM8FP5512G0C110
+Z590 AORUS XTREME        Z590 AORUS XTREME
+ZP2000CV3A001                ZP2000CV3A001
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Elementos que vuelven a estar disponibles: 26
+id_item
+4044951017515                  4044951017515
+75260051                            75260051
+90-MXB9U0-A0UAYZ            90-MXB9U0-A0UAYZ
+90-MXBF10-A0UAYZ            90-MXBF10-A0UAYZ
+90MB0ZB0-M0EAY0              90MB0ZB0-M0EAY0
+90MB13H0-M0EAY0              90MB13H0-M0EAY0
+90MB16E0-M0EAY0              90MB16E0-M0EAY0
+90MB17N0-M0EAY0              90MB17N0-M0EAY0
+90MB1810-M0EAY1              90MB1810-M0EAY1
+90MB1850-M0EAY0              90MB1850-M0EAY0
+90MB1880-M0EAY0              90MB1880-M0EAY0
+ASU650SS-240GT-C            ASU650SS-240GT-C
+AX4U3600316G18A-ST50    AX4U3600316G18A-ST50
+BX8070811400F                  BX8070811400F
+CMK32GX4M4B3200C16        CMK32GX4M4B3200C16
+F4-3000C15D-16GVGB        F4-3000C15D-16GVGB
+F4-3200C14Q-32GFX          F4-3200C14Q-32GFX
+F4-3600C16D-32GTZR        F4-3600C16D-32GTZR
+HX430C15PB3K2/32            HX430C15PB3K2/32
+HX436C18FB3K4/128          HX436C18FB3K4/128
+M9A                                      M9A
+NH-D15S chromax.blac    NH-D15S chromax.blac
+ST6000DM003                      ST6000DM003
+TM8FP5001T0C119              TM8FP5001T0C119
+Z590 AORUS XTREME          Z590 AORUS XTREME
+ZP2000GM30021                  ZP2000GM30021
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Componentes nuevos: 12
+1444       CL-P049-AL09BL-A
+1445       CL-P064-AL12SW-A
+1446       CL-P074-AL12BL-A
+1447       CL-P075-AL12BL-A
+1491       CL-F053-PL12SW-A
+1492       CL-F056-PL14SW-A
+1493       CL-F121-PL12GM-A
+1524       CA-1S2-00M1WN-01
+1525       CA-1S2-00M6WN-01
+1555    PS-SPD-0600MNSABE-1
+1556    PS-SPS-0700MNSAWE-1
+1557    PS-STP-0650FNFAGE-1
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Componentes sin stock: 18
+2062                      ZT-A30600F-10P
+2063                    CA-1P8-00M1WN-00
+2064                    CL-F077-PL14SW-A
+2065           FD-PSU-ION-SFX-650G-BK-EU
+2066    ZT-A30600F-10P / 90MB11N0-M0EAY0
+2067                      100-GD-0700-V1
+2068                           7D09-003R
+2069                               XF140
+2070                        11295-05-20G
+2071                               83281
+2072                     90YV0DP1-M0NM00
+2073                     AK-340106-020-S
+2074                      CT500MX500SSD4
+2075                  MCB-B311L-KGNN-S01
+2076                            WD30EFRX
+2077                            WD80EFAX
+2078    ZT-A30600F-10P / 90YE00D1-B0NA00
+2079                                   0
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------

@@ -1,0 +1,6 @@
+********************************************************************************************
+Fecha de creacion: Maestra_21-23-34_24-05_pccomponentes.txt
+********************************************************************************************
+WEB: pccomponentes
+Maestra: 19-07-13_24-05_maestra_pccomponentes.json
+Entrante: ./pccomponentes/21-14_24-05_pccomponentes.json
