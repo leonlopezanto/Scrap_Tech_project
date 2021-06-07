@@ -1,0 +1,93 @@
+********************************************************************************************
+Fecha de creacion: Maestra_12-13-01_17-04_wipoid.txt
+********************************************************************************************
+WEB: wipoid
+Maestra: 08-45-01_16-04_maestra_wipoid.json
+Entrante: ./wipoid/12-13_17-04_wipoid.json
+------------------------------------------------------------------------------------------
+Componentes que han cambiado el precio: 39
+Suben de precio: 17
+id_item
+90MB17A0-M0EAY0                  90MB17A0-M0EAY0
+911-7C83-005                        911-7C83-005
+BL2K8G32C16U4BL                  BL2K8G32C16U4BL
+BX8070110400                        BX8070110400
+CO-9050050-WW                      CO-9050050-WW
+F4-3000C16D-32GTZR            F4-3000C16D-32GTZR
+F4-3000C16Q-32GTZR            F4-3000C16Q-32GTZR
+F4-3200C16D-32GTZRX          F4-3200C16D-32GTZRX
+F4-3600C17D-32GTZR            F4-3600C17D-32GTZR
+F4-3600C18D-32GTZN            F4-3600C18D-32GTZN
+HX426C16FB3K2/16                HX426C16FB3K2/16
+HX432C16PB3/32                    HX432C16PB3/32
+MCB-D500D-WGNN-S01            MCB-D500D-WGNN-S01
+MZ-V7S2T0BW                          MZ-V7S2T0BW
+NH-U12A                                  NH-U12A
+TLZRD416G3200HC16CDC01    TLZRD416G3200HC16CDC01
+YD340BC6M4MFH                      YD340BC6M4MFH
+Name: id_item, dtype: object
+Bajan de precio: 22
+id_item
+100-100000071BOX                100-100000071BOX
+90MB0ZB0-M0EAY0                  90MB0ZB0-M0EAY0
+90MB13A0-M0EAY0                  90MB13A0-M0EAY0
+911-7C90-002                        911-7C90-002
+A109-0344                              A109-0344
+ASX8200PNP-1TT-C                ASX8200PNP-1TT-C
+ASX8200PNP-2TT-C                ASX8200PNP-2TT-C
+B460M DS3H                            B460M DS3H
+B550I AORUS PRO AX            B550I AORUS PRO AX
+B550M S2H                              B550M S2H
+BX8070811400F                      BX8070811400F
+CMW32GX4M2E3200C16W          CMW32GX4M2E3200C16W
+CSSD-F1000GBMP600              CSSD-F1000GBMP600
+CSSD-F8000GBMP400              CSSD-F8000GBMP400
+F4-4000C18D-32GTRS            F4-4000C18D-32GTRS
+FOCUS-GX-550                        FOCUS-GX-550
+T253TM500G3C302                  T253TM500G3C302
+TDZRD416G3200HC16CDC01    TDZRD416G3200HC16CDC01
+VPN100-512GM28H                  VPN100-512GM28H
+WD20PURZ                                WD20PURZ
+WDS250G3X0C-00SJG0            WDS250G3X0C-00SJG0
+Z590 AORUS XTREME              Z590 AORUS XTREME
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Elementos que vuelven a estar disponibles: 18
+id_item
+100-100000051WOF          100-100000051WOF
+100-100000279WOF          100-100000279WOF
+831101                              831101
+90-MXB9B0-A0UAYZ          90-MXB9B0-A0UAYZ
+90MB0ZB0-M0EAY0            90MB0ZB0-M0EAY0
+90MB15X0-M0EAY0            90MB15X0-M0EAY0
+90MB17A0-M0EAY0            90MB17A0-M0EAY0
+ASU650SS-120GT-R          ASU650SS-120GT-R
+B550M S2H                        B550M S2H
+CO-9050050-WW                CO-9050050-WW
+CP-9020105-EU                CP-9020105-EU
+F4-3200C16Q-128GTZN    F4-3200C16Q-128GTZN
+HX432C16FB4K4/64          HX432C16FB4K4/64
+HX432C16PB3/8                HX432C16PB3/8
+MZ-76E500B/EU                MZ-76E500B/EU
+MZ-V7S2T0BW                    MZ-V7S2T0BW
+NP-C850M-EU                    NP-C850M-EU
+Z590 AORUS XTREME        Z590 AORUS XTREME
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Componentes nuevos: 4
+967         911-7C92-004
+1372         ACFAN00139A
+1373    CL-F080-PL14SW-A
+1376    CL-F088-PL12SW-A
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Componentes sin stock: 1
+1818    0
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------

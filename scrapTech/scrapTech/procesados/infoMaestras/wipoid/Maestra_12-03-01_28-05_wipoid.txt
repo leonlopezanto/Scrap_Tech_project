@@ -1,0 +1,132 @@
+********************************************************************************************
+Fecha de creacion: Maestra_12-03-01_28-05_wipoid.txt
+********************************************************************************************
+WEB: wipoid
+Maestra: 10-03-01_28-05_maestra_wipoid.json
+Entrante: ./wipoid/12-03_28-05_wipoid.json
+------------------------------------------------------------------------------------------
+Componentes que han cambiado el precio: 27
+Suben de precio: 9
+id_item
+100-100000010WOF          100-100000010WOF
+90-MXBEL0-A0UAYZ          90-MXBEL0-A0UAYZ
+911-7B86-016                  911-7B86-016
+CMW32GX4M2E3200C16W    CMW32GX4M2E3200C16W
+F4-3600C18Q-32GTZN      F4-3600C18Q-32GTZN
+MZ-V8P1T0BW                    MZ-V8P1T0BW
+NXKORE                              NXKORE
+PH-EC600PSTG_AG01        PH-EC600PSTG_AG01
+TF10D416G3200HC16C      TF10D416G3200HC16C
+Name: id_item, dtype: object
+Bajan de precio: 18
+id_item
+100-100000063WOF          100-100000063WOF
+75260042                          75260042
+75260060                          75260060
+75260179                          75260179
+75260180                          75260180
+7C75-007R                        7C75-007R
+90-MXBEZ0-A0UAYZ          90-MXBEZ0-A0UAYZ
+ASU650SS-120GT-R          ASU650SS-120GT-R
+AX4U300038G16A-SB30    AX4U300038G16A-SB30
+BX80701G5905                  BX80701G5905
+CC-9011190-WW                CC-9011190-WW
+CC-9011191-WW                CC-9011191-WW
+F4-3600C16D-16GTZR      F4-3600C16D-16GTZR
+FD-C-DEF7X-02                FD-C-DEF7X-02
+HX432C16FB4K4/64          HX432C16FB4K4/64
+MIRAGE12PRO                    MIRAGE12PRO
+SDSSDXPM2-500G-G25      SDSSDXPM2-500G-G25
+WD40EFAX                          WD40EFAX
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Elementos que vuelven a estar disponibles: 26
+id_item
+100-GD-0600-V1            100-GD-0600-V1
+4044951019304              4044951019304
+84000000154                  84000000154
+84000000155                  84000000155
+90-MXBBK0-A0UAYZ        90-MXBBK0-A0UAYZ
+90-MXBF10-A0UAYZ        90-MXBF10-A0UAYZ
+90MB10T0-M0EAY0          90MB10T0-M0EAY0
+90MB11K0-M0EAY0          90MB11K0-M0EAY0
+90MB14K0-M0EAY0          90MB14K0-M0EAY0
+90MB1880-M0EAY0          90MB1880-M0EAY0
+911-7B86-016                911-7B86-016
+911-7B93-005                911-7B93-005
+ASU650SS-120GT-R        ASU650SS-120GT-R
+ASU650SS-240GT-C        ASU650SS-240GT-C
+BN315                              BN315
+BX8070110600                BX8070110600
+BX80701G5905                BX80701G5905
+CC-9011190-WW              CC-9011190-WW
+CC-9011191-WW              CC-9011191-WW
+CMT16GX4M2C3600C18    CMT16GX4M2C3600C18
+CMW32GX4M4D3600C18    CMW32GX4M4D3600C18
+HX432C16FB4K4/64        HX432C16FB4K4/64
+NXKORE                            NXKORE
+PH-ES719LTG_DAG01      PH-ES719LTG_DAG01
+PVS464G360C8K              PVS464G360C8K
+TF10D416G3600HC18J    TF10D416G3600HC18J
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Componentes nuevos: 0
+Series([], Name: id_item, dtype: object)
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Componentes sin stock: 48
+2068                    90-MXB5Q0-A0UAYZ
+2069                BFC-ARA-300-WKWKK-RP
+2070                BFC-COM-100-KKWS1-RP
+2071                BFC-COM-100-WWWK1-RP
+2072                       CC-9011105-WW
+2073                 CMK32GX4M2B3000C15W
+2074                              CR-H5A
+2075                FD-CA-DEF-MINI-C-BK-
+2076                       MZ-76E250B/EU
+2077                     PH-EC416PSTG_AG
+2078                      PH-ES614LTG_BK
+2079                    PSICC-DVI2-BK-10
+2080                    SSD7CS900-120-PB
+2081                          SSR-1000TR
+2082                           IGG311820
+2083                           IGG312186
+2084                         KVR16LS11/4
+2085                     SDSSDA-120G-G27
+2086                     90YV0EI2-M0NA00
+2087    ZT-A30600H-10M / 90YE00D1-B0NA00
+2088                      MPE-6501-ACABW
+2089                         B550M-A PRO
+2090                       Z490 VISION D
+2091             AXRX 5500XT 8GBD6-DH/OC
+2092                      BX80684I59500F
+2093                   MPE-6001-ACAAB-EU
+2094      ZT-T16600K-10M/90YE00D1-B0NA00
+2095    ZT-T16620F-10L / 90YE00D1-B0NA00
+2096                      DVI-D-M/HDMI-M
+2097    ZT-A30700J-10P / 90YE00D1-B0NA00
+2098                   MCS-S400-KG5N-S00
+2099                    CA-1P8-00M1WN-00
+2100                    CL-F077-PL14SW-A
+2101           FD-PSU-ION-SFX-650G-BK-EU
+2102    ZT-A30600F-10P / 90MB11N0-M0EAY0
+2103                      100-GD-0700-V1
+2104                           7D09-003R
+2105                               XF140
+2106                        11295-05-20G
+2107                               83281
+2108                     90YV0DP1-M0NM00
+2109                     AK-340106-020-S
+2110                      CT500MX500SSD4
+2111                  MCB-B311L-KGNN-S01
+2112                            WD30EFRX
+2113                            WD80EFAX
+2114    ZT-A30600F-10P / 90YE00D1-B0NA00
+2115                                   0
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------

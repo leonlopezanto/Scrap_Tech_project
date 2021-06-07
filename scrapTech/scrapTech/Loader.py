@@ -49,8 +49,8 @@ class Loader():
     
     def extraerUltimos(self, directorio, nameDir, numFiles):
         """
-        Devuelve los dos docuementos más recientes
-        arsea los nombres a fechas, ordena de más reciente a menos
+        Devuelve los dos documentos más recientes
+        parsea los nombres a fechas, ordena de más reciente a menos
         extrae los dos primeros si son mayores que self.minSize
         
         dt_string = "12/11/2018 09:15:32"

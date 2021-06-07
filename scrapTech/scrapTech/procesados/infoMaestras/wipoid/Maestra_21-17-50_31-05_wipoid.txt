@@ -1,0 +1,115 @@
+********************************************************************************************
+Fecha de creacion: Maestra_21-17-50_31-05_wipoid.txt
+********************************************************************************************
+WEB: wipoid
+Maestra: 13-25-14_31-05_maestra_wipoid.json
+Entrante: ./wipoid/21-17_31-05_wipoid.json
+
+-----WARNING: Elementos duplicados en entrante -----
+
+              id_item                          nombre
+1908  90MB14D0-M0EAY0  Asus Prime B550M-A Wi-Fi M-ATX
+
+----------------------------------------
+
+------------------------------------------------------------------------------------------
+Componentes que han cambiado el precio: 13
+Suben de precio: 4
+id_item
+10.15.0701                  10.15.0701
+BX8070110600K            BX8070110600K
+BX8070811400F            BX8070811400F
+MCB-B520-KANN-S01    MCB-B520-KANN-S01
+Name: id_item, dtype: object
+Bajan de precio: 9
+id_item
+100-100000071BOX    100-100000071BOX
+BX8070110600KF        BX8070110600KF
+BX8070811600K          BX8070811600K
+BX8070811700            BX8070811700
+BX8070811900            BX8070811900
+BX8070811900F          BX8070811900F
+SA2000M8/500G          SA2000M8/500G
+UMX1PLUSBLACK          UMX1PLUSBLACK
+UMX3SILVER                UMX3SILVER
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Elementos que vuelven a estar disponibles: 3
+id_item
+MCB-B520-KANN-S01      MCB-B520-KANN-S01
+SDSSDXPM2-500G-G25    SDSSDXPM2-500G-G25
+ZT-A30800F-10P            ZT-A30800F-10P
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Componentes nuevos: 5
+627                      18159
+743     FD-PSU-ION-SFX-650G-BK
+1818             BX8070811700F
+1819            BX8070811700KF
+1820              BX8070811500
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Componentes sin stock: 55
+1365                    FD-P-IA2G-650-EU
+2073                       3830046995735
+2074                     90LM05B0-B02170
+2075                      LC49G95TSSUXEN
+2076                 P-SDU256V11100EL-GE
+2077                     90MB15K0-M0EAY0
+2078                     90MB1800-M0EAY0
+2079                    90-MXB5Q0-A0UAYZ
+2080                BFC-ARA-300-WKWKK-RP
+2081                BFC-COM-100-KKWS1-RP
+2082                BFC-COM-100-WWWK1-RP
+2083                       CC-9011105-WW
+2084                 CMK32GX4M2B3000C15W
+2085                              CR-H5A
+2086                FD-CA-DEF-MINI-C-BK-
+2087                       MZ-76E250B/EU
+2088                     PH-EC416PSTG_AG
+2089                      PH-ES614LTG_BK
+2090                    PSICC-DVI2-BK-10
+2091                    SSD7CS900-120-PB
+2092                          SSR-1000TR
+2093                           IGG311820
+2094                           IGG312186
+2095                         KVR16LS11/4
+2096                     SDSSDA-120G-G27
+2097                     90YV0EI2-M0NA00
+2098    ZT-A30600H-10M / 90YE00D1-B0NA00
+2099                      MPE-6501-ACABW
+2100                         B550M-A PRO
+2101                       Z490 VISION D
+2102             AXRX 5500XT 8GBD6-DH/OC
+2103                      BX80684I59500F
+2104                   MPE-6001-ACAAB-EU
+2105      ZT-T16600K-10M/90YE00D1-B0NA00
+2106    ZT-T16620F-10L / 90YE00D1-B0NA00
+2107                      DVI-D-M/HDMI-M
+2108    ZT-A30700J-10P / 90YE00D1-B0NA00
+2109                   MCS-S400-KG5N-S00
+2110                    CA-1P8-00M1WN-00
+2111                    CL-F077-PL14SW-A
+2112           FD-PSU-ION-SFX-650G-BK-EU
+2113    ZT-A30600F-10P / 90MB11N0-M0EAY0
+2114                      100-GD-0700-V1
+2115                           7D09-003R
+2116                               XF140
+2117                        11295-05-20G
+2118                               83281
+2119                     90YV0DP1-M0NM00
+2120                     AK-340106-020-S
+2121                      CT500MX500SSD4
+2122                  MCB-B311L-KGNN-S01
+2123                            WD30EFRX
+2124                            WD80EFAX
+2125    ZT-A30600F-10P / 90YE00D1-B0NA00
+2126                                   0
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------

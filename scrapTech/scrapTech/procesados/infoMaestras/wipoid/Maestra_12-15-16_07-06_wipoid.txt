@@ -1,0 +1,203 @@
+********************************************************************************************
+Fecha de creacion: Maestra_12-15-16_07-06_wipoid.txt
+********************************************************************************************
+WEB: wipoid
+Maestra: 11-24-39_07-06_maestra_wipoid.json
+Entrante: ./wipoid/12-15_07-06_wipoid.json
+
+-----WARNING: Elementos duplicados en entrante -----
+
+              id_item                         nombre
+1908  90MB14D0-M0EAY0  Asus Prime B550M-A WiFi M-ATX
+
+----------------------------------------
+
+------------------------------------------------------------------------------------------
+Componentes que han cambiado el precio: 2
+Suben de precio: 2
+id_item
+90YV0DS3-M0NA00    90YV0DS3-M0NA00
+H5 Ultimate            H5 Ultimate
+Name: id_item, dtype: object
+Bajan de precio: 0
+Series([], Name: id_item, dtype: object)
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Elementos que vuelven a estar disponibles: 0
+Series([], Name: id_item, dtype: object)
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Componentes nuevos: 0
+Series([], Name: id_item, dtype: object)
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Componentes sin stock: 164
+1985                     90YV0DT0-M0NA00
+1986                     90YV0FU0-M0NA00
+1987                    0-761345-11682-4
+1988                      06G-P4-1068-KR
+1989                          0R20B00172
+1990                      10G-P5-3881-KR
+1991                      10G-P5-3883-KR
+1992                      10G-P5-3895-KR
+1993                      220-G5-0650-X2
+1994                       4044951016037
+1995                       4044951017515
+1996                       4044951021758
+1997                    90-MXBBV0-A0UAYZ
+1998                    90-MXBC00-A0UAYZ
+1999                    90-MXBC10-A0UAYZ
+2000                    90-MXBC20-A0UAYZ
+2001                    90-MXBC60-A0UAYZ
+2002                    90-MXBCF0-A0UAYZ
+2003                    90-MXBD20-A0UAYZ
+2004                    90-MXBD30-A0UAYZ
+2005                    90-MXBD80-A0UAYZ
+2006                     90MB0YT0-M0EAY0
+2007                     90MB12F0-M0EAY0
+2008                     90MB12Y0-M0EAY0
+2009                     90MB1360-M0EAY0
+2010                     90MB13B0-M0EAY0
+2011                     90MB13Q0-M0EAY0
+2012                     90MB1460-M0EAY0
+2013                     90YV0DT4-M0NA00
+2014                     90YV0EH6-M0NA00
+2015                     90YV0G11-M0NA00
+2016                     90YV0GB3-M0NA00
+2017                     90YV0GC1-M0NA00
+2018                        911-7C89-007
+2019                        912-V389-005
+2020                        912-V3oooooo
+2021                            99997230
+2022                 AX4U3200316G16-DT60
+2023                        BX8070110300
+2024                        BX8070110320
+2025                       BX8070110900F
+2026                    CA-1Q4-00M6WN-00
+2027                       CC-9011166-WW
+2028                  CMW32GX4M2C3000C15
+2029                 CMW32GX4M2C3000C15W
+2030                           CNPS16XBK
+2031                              CNPS4X
+2032                      COO-DGC-A191-0
+2033                      COO-DGC-M192-0
+2034                           CRONOS800
+2035                  F4-3000C15Q-32GTZR
+2036               GV-R55XTGAMING OC-8GD
+2037                            H470 HD3
+2038                          H470M DS3H
+2039                         HX318C10F/4
+2040                   HX430C15PB3AK2/16
+2041                             Indiana
+2042                          KL-C1050PL
+2043                         MZ-V7E1T0BW
+2044                         MZ-V7E500BW
+2045                          P200S2TB25
+2046                     PH-EC350PTG_DBW
+2047                   PH-EC360PTG_DBK01
+2048                   PH-ES719LTG_DAG01
+2049                 PS-TPI-1050F2FDPE-1
+2050                     R4-120R-20PC-R1
+2051                     R4-C1DS-12FK-R1
+2052                        SHSX100/480G
+2053                     T253LE240GTC101
+2054                          VA5515RF21
+2055                       VCQP400DVI-PB
+2056                      ZT-A30600E-10M
+2057                      ZT-A30700E-10P
+2058                      ZT-A30800D-10P
+2059                      ZT-A30800J-10P
+2060                      ZT-A30900D-10P
+2061                      tal-shield rgb
+2062                   DP-FA-RGB-CF120-1
+2063                    DP-FRGB-RF120-1C
+2064                       ZP1000GM30011
+2065                      100-W1-0500-K2
+2066                      100-W1-0600-K2
+2067                       4044951026609
+2068                    90-MXB5R0-A0UAYZ
+2069                    90-MXB6Y0-A0UAYZ
+2070                    90-MXB920-A0UAYZ
+2071                    90-MXB9B0-A0UAYZ
+2072                    90-MXB9U0-A0UAYZ
+2073                    90-MXB9W0-A0UAYZ
+2074                    90-MXBAW0-A0UAYZ
+2075                     90MB0YM0-M0EAY0
+2076                     90MB0YR0-M0EAYC
+2077                     90MB1090-M0EAY0
+2078                     90YV0CU0-M0NA00
+2079                     90YV0CU2-M0NA00
+2080                 AX4U300038G16A-ST41
+2081                       BX80684I39100
+2082                       BX80684I59400
+2083                      BX80684I79700F
+2084                       CC-9011188-WW
+2085           FD-CA-MESH-C-MINI-BKO-TGD
+2086                      GAB45ARSE-00-G
+2087                   MCS-S600-KN5N-S00
+2088                       MZ-76E500B/EU
+2089                         PHALANX_RGB
+2090                         WDS240G2G0A
+2091         Z390 AORUS XTREME WATERFOCE
+2092                      ZT-T16620D-10M
+2093                      ZT-T16620F-10L
+2094                      ZT-T20600F-10M
+2095                       3830046995735
+2096                     90LM05B0-B02170
+2097                      LC49G95TSSUXEN
+2098                 P-SDU256V11100EL-GE
+2099                     90MB15K0-M0EAY0
+2100                     90MB1800-M0EAY0
+2101                    90-MXB5Q0-A0UAYZ
+2102                BFC-ARA-300-WKWKK-RP
+2103                BFC-COM-100-KKWS1-RP
+2104                BFC-COM-100-WWWK1-RP
+2105                       CC-9011105-WW
+2106                 CMK32GX4M2B3000C15W
+2107                              CR-H5A
+2108                FD-CA-DEF-MINI-C-BK-
+2109                       MZ-76E250B/EU
+2110                     PH-EC416PSTG_AG
+2111                      PH-ES614LTG_BK
+2112                    PSICC-DVI2-BK-10
+2113                    SSD7CS900-120-PB
+2114                          SSR-1000TR
+2115                           IGG311820
+2116                           IGG312186
+2117                         KVR16LS11/4
+2118                     SDSSDA-120G-G27
+2119                     90YV0EI2-M0NA00
+2120    ZT-A30600H-10M / 90YE00D1-B0NA00
+2121                      MPE-6501-ACABW
+2122                         B550M-A PRO
+2123                       Z490 VISION D
+2124             AXRX 5500XT 8GBD6-DH/OC
+2125                      BX80684I59500F
+2126                   MPE-6001-ACAAB-EU
+2127      ZT-T16600K-10M/90YE00D1-B0NA00
+2128    ZT-T16620F-10L / 90YE00D1-B0NA00
+2129                      DVI-D-M/HDMI-M
+2130    ZT-A30700J-10P / 90YE00D1-B0NA00
+2131                   MCS-S400-KG5N-S00
+2132                    CA-1P8-00M1WN-00
+2133                    CL-F077-PL14SW-A
+2134           FD-PSU-ION-SFX-650G-BK-EU
+2135    ZT-A30600F-10P / 90MB11N0-M0EAY0
+2136                      100-GD-0700-V1
+2137                           7D09-003R
+2138                               XF140
+2139                        11295-05-20G
+2140                               83281
+2141                     90YV0DP1-M0NM00
+2142                     AK-340106-020-S
+2143                      CT500MX500SSD4
+2144                  MCB-B311L-KGNN-S01
+2145                            WD30EFRX
+2146                            WD80EFAX
+2147    ZT-A30600F-10P / 90YE00D1-B0NA00
+2148                                   0
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------

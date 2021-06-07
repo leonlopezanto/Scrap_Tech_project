@@ -1,0 +1,73 @@
+********************************************************************************************
+Fecha de extraccion: Scrap_14-59_07-06.txt
+Araña:
+	wipoid
+	pccomponentes
+
+WEB: Tiempo de extraccion: 42.26805120706558
+********************************************************************************************
+
+
+
+------------------------------------Datos de limpieza de :./pccomponentes/08-46_07-06_pccomponentes.json
+
+
+Numero de reacondicionados: 134
+No hay campos nulos
+
+Informacion duplicados:
+ 
+No existen duplicados
+
+
+Informacion dataset:
+
+
+Descripcion:
+            precio
+count  4942.000000
+mean    147.754559
+std     249.042450
+min       0.670000
+25%      47.750000
+50%      89.000000
+75%     161.490000
+max    7171.980000
+
+Numero de filas: 4942
+
+Numero de columnas: 8
+
+
+
+------------------------------------Datos de limpieza de :./wipoid/14-59_07-06_wipoid.json
+
+
+Los campos nulos sonInt64Index([0, 1993, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003,
+            2004],
+           dtype='int64')
+
+Informacion duplicados:
+ 
+              id_item                               nombre
+1294  90MB14D0-M0EAY0        Asus Prime B550M-A WiFi M-ATX
+1975  90MB17G0-M0EAY0  Asus TUF Gaming A520M-Plus II M-ATX
+
+
+Informacion dataset:
+
+
+Descripcion:
+            precio
+count  1993.000000
+mean    165.005936
+std     287.189424
+min       1.200000
+25%      57.500000
+50%      98.300000
+75%     172.900000
+max    5399.000000
+
+Numero de filas: 1993
+
+Numero de columnas: 7

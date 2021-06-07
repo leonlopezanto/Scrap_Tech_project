@@ -1,0 +1,118 @@
+********************************************************************************************
+Fecha de creacion: Maestra_17-41-01_20-04_wipoid.txt
+********************************************************************************************
+WEB: wipoid
+Maestra: 22-00-01_19-04_maestra_wipoid.json
+Entrante: ./wipoid/17-41_20-04_wipoid.json
+------------------------------------------------------------------------------------------
+Componentes que han cambiado el precio: 57
+Suben de precio: 12
+id_item
+90-MXBES0-A0UAYZ          90-MXBES0-A0UAYZ
+BX8070110400F                BX8070110400F
+CO-9050099-WW                CO-9050099-WW
+CP-9020186-EU                CP-9020186-EU
+ETS-T50A-W-ARGB            ETS-T50A-W-ARGB
+HX432C16FB3K2/8            HX432C16FB3K2/8
+HX432C16FB3K4/128        HX432C16FB3K4/128
+HX432C16PB3K2/32          HX432C16PB3K2/32
+MZ-76P512B/EU                MZ-76P512B/EU
+NF-A12x15 PWM CH.BK    NF-A12x15 PWM CH.BK
+PH-ES620PC_BK01            PH-ES620PC_BK01
+SKC600/512G                    SKC600/512G
+Name: id_item, dtype: object
+Bajan de precio: 45
+id_item
+100-100000059WOF          100-100000059WOF
+100-100000061WOF          100-100000061WOF
+100-100000163WOF          100-100000163WOF
+75260051                          75260051
+90-MXB6T0-A0UAYZ          90-MXB6T0-A0UAYZ
+90-MXB8A0-A0UAYZ          90-MXB8A0-A0UAYZ
+90-MXBAP0-A0UAYZ          90-MXBAP0-A0UAYZ
+90-MXBAR0-A0UAYZ          90-MXBAR0-A0UAYZ
+90-MXBAT0-A0UAYZ          90-MXBAT0-A0UAYZ
+90-MXBBT0-A0UAYZ          90-MXBBT0-A0UAYZ
+90-MXBC40-A0UAYZ          90-MXBC40-A0UAYZ
+90-MXBC50-A0UAYZ          90-MXBC50-A0UAYZ
+90-MXBCY0-A0UAYZ          90-MXBCY0-A0UAYZ
+90-MXBD90-A0UAYZ          90-MXBD90-A0UAYZ
+90-MXBDE0-A0UAYZ          90-MXBDE0-A0UAYZ
+90-MXBDQ0-A0UAYZ          90-MXBDQ0-A0UAYZ
+90-MXBDZ0-A0UAYZ          90-MXBDZ0-A0UAYZ
+911-7B89-020                  911-7B89-020
+911-7C02-033                  911-7C02-033
+911-7C52-002                  911-7C52-002
+911-7C92-004                  911-7C92-004
+AGAMMIXS11P-1TT-C        AGAMMIXS11P-1TT-C
+AORUS P850W                    AORUS P850W
+ASX6000PNP-256GT-C      ASX6000PNP-256GT-C
+BX80684I59600K              BX80684I59600K
+BX8070110700                  BX8070110700
+CC-9011169-WW                CC-9011169-WW
+CMW16GX4M2D3600C18      CMW16GX4M2D3600C18
+CMW16GX4M2Z3600C18      CMW16GX4M2Z3600C18
+CORE-GC-500                    CORE-GC-500
+CT32G4DFD8266                CT32G4DFD8266
+F4-3000C15D-16GVGB      F4-3000C15D-16GVGB
+F4-3200C16Q-128GVK      F4-3200C16Q-128GVK
+F4-3600C16D-32GTZR      F4-3600C16D-32GTZR
+F4-4000C19D-32GTZR      F4-4000C19D-32GTZR
+MZ-76P1T0B/EU                MZ-76P1T0B/EU
+MZ-V7P1T0BW                    MZ-V7P1T0BW
+MZ-V7S1T0BW                    MZ-V7S1T0BW
+NF-A14 PWM CH.BK.S      NF-A14 PWM CH.BK.S
+NF-S12A PWM CH.BK.S    NF-S12A PWM CH.BK.S
+RF-AF140-B1                    RF-AF140-B1
+SCKTT-2000                      SCKTT-2000
+SF-750F14HG                    SF-750F14HG
+SSR-750PX                        SSR-750PX
+ST2000DM008                    ST2000DM008
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Elementos que vuelven a estar disponibles: 25
+id_item
+100-100000059WOF          100-100000059WOF
+100-100000061WOF          100-100000061WOF
+90MB1760-M0EAY0            90MB1760-M0EAY0
+90MB17C0-M0EAY0            90MB17C0-M0EAY0
+90YV0EZ2-M0NA00            90YV0EZ2-M0NA00
+ASU650SS-120GT-R          ASU650SS-120GT-R
+BX8070811900K                BX8070811900K
+CA-H710B-BR                    CA-H710B-BR
+CC-9011169-WW                CC-9011169-WW
+CC-9011199-WW                CC-9011199-WW
+CP-9020072-EU                CP-9020072-EU
+CP-9020186-EU                CP-9020186-EU
+CP-9020194-EU                CP-9020194-EU
+F4-3200C14D-16GVK        F4-3200C14D-16GVK
+F4-3200C16Q-128GVK      F4-3200C16Q-128GVK
+F4-3600C16D-32GTZR      F4-3600C16D-32GTZR
+F4-4000C19D-32GTZR      F4-4000C19D-32GTZR
+HX432C16FB3K4/128        HX432C16FB3K4/128
+HX432C16PB3AK2/32        HX432C16PB3AK2/32
+NF-A12x15 PWM CH.BK    NF-A12x15 PWM CH.BK
+RF-ACT14-W1                    RF-ACT14-W1
+SKC600/256G                    SKC600/256G
+SKC600/512G                    SKC600/512G
+ST18000NM000J                ST18000NM000J
+ZT-A30600E-10M              ZT-A30600E-10M
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Componentes nuevos: 4
+0        ST18000NM004J
+1070    06G-P4-1068-KR
+1135             83776
+1251     100-000000065
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Componentes sin stock: 1
+1830    0
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------

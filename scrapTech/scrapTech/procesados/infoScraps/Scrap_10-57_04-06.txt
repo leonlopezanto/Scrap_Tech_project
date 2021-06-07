@@ -1,0 +1,72 @@
+********************************************************************************************
+Fecha de extraccion: Scrap_10-57_04-06.txt
+Araña:
+	wipoid
+	pccomponentes
+
+WEB: Tiempo de extraccion: 106.00662646691005
+********************************************************************************************
+
+
+
+------------------------------------Datos de limpieza de :./pccomponentes/10-57_04-06_pccomponentes.json
+
+
+Numero de reacondicionados: 137
+No hay campos nulos
+
+Informacion duplicados:
+ 
+No existen duplicados
+
+
+Informacion dataset:
+
+
+Descripcion:
+            precio
+count  4972.000000
+mean    146.658001
+std     249.290080
+min       0.670000
+25%      46.785000
+50%      88.350000
+75%     160.880000
+max    7171.980000
+
+Numero de filas: 4972
+
+Numero de columnas: 8
+
+
+
+------------------------------------Datos de limpieza de :./wipoid/10-57_04-06_wipoid.json
+
+
+Los campos nulos sonInt64Index([0, 1870, 1871, 1872, 1873, 1874, 1875, 1876, 1909, 1910, 1911,
+            1912, 1913, 1914],
+           dtype='int64')
+
+Informacion duplicados:
+ 
+              id_item                          nombre
+1736  90MB14D0-M0EAY0  Asus Prime B550M-A Wi-Fi M-ATX
+
+
+Informacion dataset:
+
+
+Descripcion:
+            precio
+count  1982.000000
+mean    163.375232
+std     282.349073
+min       1.200000
+25%      56.950000
+50%      98.125000
+75%     172.900000
+max    5495.000000
+
+Numero de filas: 1982
+
+Numero de columnas: 7

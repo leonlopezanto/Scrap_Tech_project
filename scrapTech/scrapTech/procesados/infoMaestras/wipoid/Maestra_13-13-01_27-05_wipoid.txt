@@ -1,0 +1,71 @@
+********************************************************************************************
+Fecha de creacion: Maestra_13-13-01_27-05_wipoid.txt
+********************************************************************************************
+WEB: wipoid
+Maestra: 11-15-01_27-05_maestra_wipoid.json
+Entrante: ./wipoid/13-13_27-05_wipoid.json
+------------------------------------------------------------------------------------------
+Componentes que han cambiado el precio: 11
+Suben de precio: 2
+id_item
+PH-EC300ATG_BK01    PH-EC300ATG_BK01
+TM8FP5001T0C119      TM8FP5001T0C119
+Name: id_item, dtype: object
+Bajan de precio: 9
+id_item
+CT250MX500SSD1      CT250MX500SSD1
+CT500MX500SSD1      CT500MX500SSD1
+MZ-77Q1T0BW            MZ-77Q1T0BW
+NH-U12A                    NH-U12A
+PBU120GS25SSDR      PBU120GS25SSDR
+PBU480GS25SSDR      PBU480GS25SSDR
+SA400S37/240G        SA400S37/240G
+TM8FP5512G0C110    TM8FP5512G0C110
+TM8FP5512G0C119    TM8FP5512G0C119
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Elementos que vuelven a estar disponibles: 1
+id_item
+TM8FP5001T0C119    TM8FP5001T0C119
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Componentes nuevos: 0
+Series([], Name: id_item, dtype: object)
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Componentes sin stock: 28
+2079                      MPE-6501-ACABW
+2080                         B550M-A PRO
+2081                       Z490 VISION D
+2082             AXRX 5500XT 8GBD6-DH/OC
+2083                      BX80684I59500F
+2084                   MPE-6001-ACAAB-EU
+2085      ZT-T16600K-10M/90YE00D1-B0NA00
+2086    ZT-T16620F-10L / 90YE00D1-B0NA00
+2087                      DVI-D-M/HDMI-M
+2088    ZT-A30700J-10P / 90YE00D1-B0NA00
+2089                   MCS-S400-KG5N-S00
+2090                    CA-1P8-00M1WN-00
+2091                    CL-F077-PL14SW-A
+2092           FD-PSU-ION-SFX-650G-BK-EU
+2093    ZT-A30600F-10P / 90MB11N0-M0EAY0
+2094                      100-GD-0700-V1
+2095                           7D09-003R
+2096                               XF140
+2097                        11295-05-20G
+2098                               83281
+2099                     90YV0DP1-M0NM00
+2100                     AK-340106-020-S
+2101                      CT500MX500SSD4
+2102                  MCB-B311L-KGNN-S01
+2103                            WD30EFRX
+2104                            WD80EFAX
+2105    ZT-A30600F-10P / 90YE00D1-B0NA00
+2106                                   0
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------

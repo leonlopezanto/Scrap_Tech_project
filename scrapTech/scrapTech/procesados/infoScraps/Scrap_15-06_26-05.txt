@@ -1,0 +1,68 @@
+********************************************************************************************
+Fecha de extraccion: Scrap_15-06_26-05.txt
+Araña:
+	wipoid
+	pccomponentes
+
+WEB: Tiempo de extraccion: 238.76264466842017
+********************************************************************************************
+
+
+
+------------------------------------Datos de limpieza de :./pccomponentes/15-06_26-05_pccomponentes.json
+
+
+Numero de reacondicionados: 145
+No hay campos nulos
+
+Informacion duplicados:
+ 
+No existen duplicados
+
+
+Informacion dataset:
+
+
+Descripcion:
+            precio
+count  4946.000000
+mean    141.814674
+std     223.893880
+min       0.670000
+25%      47.000000
+50%      89.310000
+75%     161.977500
+max    5636.430000
+
+Numero de filas: 4946
+
+Numero de columnas: 8
+
+
+
+------------------------------------Datos de limpieza de :./wipoid/15-06_26-05_wipoid.json
+
+No hay campos nulos
+
+Informacion duplicados:
+ 
+No existen duplicados
+
+
+Informacion dataset:
+
+
+Descripcion:
+            precio
+count  2080.000000
+mean    168.266308
+std     283.626213
+min       1.200000
+25%      57.372500
+50%      99.000000
+75%     176.500000
+max    5629.000000
+
+Numero de filas: 2080
+
+Numero de columnas: 7

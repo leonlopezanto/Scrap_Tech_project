@@ -86,8 +86,9 @@ class Gestion_maestras:
         dates = [x.replace(extraerFinal, '') for x in files]
         
         #Ordenamos las tablas segun fechas en orden inverso
+
         dates.sort(key=lambda date: datetime.strptime(date, "%H-%M-%S_%d-%m"), reverse=True)
-        
+
         #Devolvemos la primera y devolvemos la cadena extraida
         return dates[0] + extraerFinal
         
@@ -119,6 +120,27 @@ class Gestion_maestras:
         #Comprobamos los componentes de maestra que coinciden con la entrante y entrante que coinciden con maestra
         en = self.entrante[(self.entrante.id_item.isin(self.maestra.id_item))]
         maestra = self.maestra[(self.maestra.id_item.isin(self.entrante.id_item))]
+        
+        #Apaño para los duplicados que se dan a veces con WIPOID jem jem. 
+        #Esto hay que arreglarlo desde cleaning en duplicados. 
+        if(maestra.shape[0] > en.shape[0]):
+            self.info.escribirInfo('\n-----WARNING: Elementos duplicados en maestra -----\n')
+            dup = maestra[maestra.duplicated('id_item')]
+            maestra = maestra.drop_duplicates(subset=['id_item'])
+            self.info.escribirInfo(str(dup[['id_item', 'nombre']]))
+            self.info.escribirInfo('\n----------------------------------------\n')
+            print("Duplicados en maestra: " + str(dup))
+        elif(en.shape[0] > maestra.shape[0]):
+            self.info.escribirInfo('\n-----WARNING: Elementos duplicados en entrante -----\n')
+            dup = en[en.duplicated('id_item')]
+            en = en.drop_duplicates(subset=['id_item'])
+            self.info.escribirInfo(str(dup[['id_item', 'nombre']]))
+            self.info.escribirInfo('\n----------------------------------------\n')
+            print("Duplicados en entrante: " + str(dup))
+        else:
+            print('No hay valores duplicados')
+        
+        
         
         #ARREGLO PARA LOS INDICES:
         #Se asigna id_item como indice y se evita que se borre
@@ -197,12 +219,14 @@ class Gestion_maestras:
         
         #Elementos de maestra que no aparecen en entrante, elementos fuera de stock, no disponibles
         eliminados = self.maestra[(~self.maestra.id_item.isin(self.entrante.id_item))]
-        #actualizamos campo disponible
+        
+        
+        #actualizamos campo disponible (OPTIMIZABLE)
         eliminados['disponible'] = False
         
-        #actualizamos campo update
-        eliminados['update'] = get_fecha('completa')
-        
+        #actualizamos campo update solo si antes no estaba disponible
+        eliminados['update'].loc[(eliminados['precio_upd'] != 'no_disponible')] = get_fecha('completa')
+
         #Estado precio
         eliminados['precio_upd'] = 'no_disponible'
         
@@ -237,15 +261,17 @@ class Gestion_maestras:
         
         print("Guardando: " + self.rutaGuardado)
         self.loader.guardar_datos(maestra, self.rutaGuardado)
-        time.sleep(0.8)
+        #time.sleep(0.8)
         #Desactivamos la opcion para que no escriba todo
         pd.set_option('display.max_rows', 10)
-       
         
+    
+       
+# direct = './procesados/maestras/pccomponentes/'
 # f = ['14-01_09-04_pccomponentes', '20-23_09-04_pccomponentes', '20-40_09-04_pccomponentes']
 
 # for i in f:
-#     g = Gestion_maestras('./procesados/' + i + '.json')
+#     g = Gestion_maestras(direct + i + '.json')
 #     g.proceso()
 
 # m = 'maestra_original.json'
@@ -259,9 +285,20 @@ class Gestion_maestras:
 
 
 
+#maestra_pc = './procesados/maestras/pccomponentes/20-54-12_01-06_maestra_pccomponentes.json'
+#maestra_wi = './procesados/maestras/wipoid/20-54-12_01-06_maestra_wipoid.json'
+
+#l = load.Loader() 
+#maestra_pc = l.cargar_datos(maestra_pc)
+#maestra_pc['web'] = 'pccomponentes'
 
 
+#maestra_wi = l.cargar_datos(maestra_wi)
+#maestra_wi['web'] = 'wipoid'
+#absoluta = pd.concat([maestra_pc, maestra_wi])
 
+
+#l.guardar_datos(absoluta, './procesados/maestras/absoluta/maestra.json')
 
 
 

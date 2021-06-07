@@ -1,0 +1,69 @@
+********************************************************************************************
+Fecha de extraccion: Scrap_11-08_26-05.txt
+Araña:
+	wipoid
+	pccomponentes
+
+WEB: Tiempo de extraccion: 110.13146492640178
+********************************************************************************************
+
+
+
+------------------------------------Datos de limpieza de :./pccomponentes/11-08_26-05_pccomponentes.json
+
+
+Numero de reacondicionados: 146
+
+Los campos nulos sonInt64Index([2870, 3785], dtype='int64')
+
+Informacion duplicados:
+ 
+No existen duplicados
+
+
+Informacion dataset:
+
+
+Descripcion:
+            precio
+count  4818.000000
+mean    134.535648
+std     192.884197
+min       0.670000
+25%      46.290000
+50%      86.995000
+75%     156.192500
+max    5636.430000
+
+Numero de filas: 4818
+
+Numero de columnas: 8
+
+
+
+------------------------------------Datos de limpieza de :./wipoid/11-08_26-05_wipoid.json
+
+No hay campos nulos
+
+Informacion duplicados:
+ 
+No existen duplicados
+
+
+Informacion dataset:
+
+
+Descripcion:
+            precio
+count  2080.000000
+mean    168.356236
+std     283.609948
+min       1.200000
+25%      57.500000
+50%      99.000000
+75%     176.600000
+max    5629.000000
+
+Numero de filas: 2080
+
+Numero de columnas: 7

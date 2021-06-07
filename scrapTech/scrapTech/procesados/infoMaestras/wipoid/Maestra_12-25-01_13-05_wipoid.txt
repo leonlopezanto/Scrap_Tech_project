@@ -1,0 +1,125 @@
+********************************************************************************************
+Fecha de creacion: Maestra_12-25-01_13-05_wipoid.txt
+********************************************************************************************
+WEB: wipoid
+Maestra: 08-58-01_13-05_maestra_wipoid.json
+Entrante: ./wipoid/12-25_13-05_wipoid.json
+------------------------------------------------------------------------------------------
+Componentes que han cambiado el precio: 50
+Suben de precio: 19
+id_item
+7C75-007R                      7C75-007R
+90-MXBF50-A0UAYZ        90-MXBF50-A0UAYZ
+90YV0DS3-M0NA00          90YV0DS3-M0NA00
+911-7C60-005                911-7C60-005
+911-7C95-001                911-7C95-001
+ASX8200PNP-2TT-C        ASX8200PNP-2TT-C
+BL16G32C16U4B              BL16G32C16U4B
+BX8070110600                BX8070110600
+BX8070811400                BX8070811400
+CMK64GX4M2D3000C16    CMK64GX4M2D3000C16
+CSSD-F1000GBMP400      CSSD-F1000GBMP400
+CSSD-F1000GBMP600      CSSD-F1000GBMP600
+CT-9010003-WW              CT-9010003-WW
+F4-3600C17D-16GTZR    F4-3600C17D-16GTZR
+MFL-B2DN-18NPA-R1      MFL-B2DN-18NPA-R1
+MZ-76P1T0B/EU              MZ-76P1T0B/EU
+MZ-V7P1T0BW                  MZ-V7P1T0BW
+NH-U12A                          NH-U12A
+WDS500G1X0E                  WDS500G1X0E
+Name: id_item, dtype: object
+Bajan de precio: 31
+id_item
+100-W2-0500-K2                100-W2-0500-K2
+110-BQ-0600-K2                110-BQ-0600-K2
+110-BQ-0700-V2                110-BQ-0700-V2
+220-GT-0750-Y2                220-GT-0750-Y2
+28200-P750G-1EUR            28200-P750G-1EUR
+7D14-008R                          7D14-008R
+90-MXBDG0-A0UAYZ            90-MXBDG0-A0UAYZ
+90-MXBDH0-A0UAYZ            90-MXBDH0-A0UAYZ
+90-MXBFA0-A0UAYZ            90-MXBFA0-A0UAYZ
+B460M DS3H V2                  B460M DS3H V2
+CC-9011023-WW                  CC-9011023-WW
+CMK8GX4M1A2400C16          CMK8GX4M1A2400C16
+CMK8GX4M1A2666C16          CMK8GX4M1A2666C16
+CMK8GX4M1D3000C16          CMK8GX4M1D3000C16
+CMT32GX4M4C3600C18        CMT32GX4M4C3600C18
+CMW16GX4M2C3200C16        CMW16GX4M2C3200C16
+CMW16GX4M2Z3600C18        CMW16GX4M2Z3600C18
+CP-9020210-EU                  CP-9020210-EU
+F4-3000C16Q-32GTZR        F4-3000C16Q-32GTZR
+F4-3200C16Q-64GTZR        F4-3200C16Q-64GTZR
+F4-3600C16D-32GTZRC      F4-3600C16D-32GTZRC
+F4-3600C17Q-64GTZR        F4-3600C17Q-64GTZR
+F4-3600C18Q-32GTZN        F4-3600C18Q-32GTZN
+F4-3600C18Q-64GTZN        F4-3600C18Q-64GTZN
+F4-3600C18Q2-256GTZN    F4-3600C18Q2-256GTZN
+F4-4000C18D-32GTRS        F4-4000C18D-32GTRS
+MZ-V8P2T0BW                      MZ-V8P2T0BW
+RR-212X-17PK-R1              RR-212X-17PK-R1
+WD60EZAZ                            WD60EZAZ
+YD2600BBAFBOX                  YD2600BBAFBOX
+Z490 VISION G                  Z490 VISION G
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Elementos que vuelven a estar disponibles: 28
+id_item
+0-761345-10923-9          0-761345-10923-9
+4044951013951                4044951013951
+4044951026616                4044951026616
+52084                                52084
+7C75-007R                        7C75-007R
+7D14-008R                        7D14-008R
+90-MXBEV0-A0UAYZ          90-MXBEV0-A0UAYZ
+90-MXBF10-A0UAYZ          90-MXBF10-A0UAYZ
+90MB12Y0-M0EAY0            90MB12Y0-M0EAY0
+90MB16N0-M0EAY0            90MB16N0-M0EAY0
+90MB1800-M0EAY0            90MB1800-M0EAY0
+BX80684I79700F              BX80684I79700F
+CA-1R4-00S1WN-00          CA-1R4-00S1WN-00
+CA-1R5-00M1WN-00          CA-1R5-00M1WN-00
+CA-1R8-00M1WN-00          CA-1R8-00M1WN-00
+CC-9011204-WW                CC-9011204-WW
+CMK8GX4M2C3000C16        CMK8GX4M2C3000C16
+EW7017                              EW7017
+F4-3600C16D-32GTRSC    F4-3600C16D-32GTRSC
+F4-3600C17D-16GTZR      F4-3600C17D-16GTZR
+HX432C16FB4K4/64          HX432C16FB4K4/64
+NH-U12A                            NH-U12A
+NXHUMMER850GD                NXHUMMER850GD
+NXKORE                              NXKORE
+PH-ES620PC_BK01            PH-ES620PC_BK01
+PH-ES719LTG_AG              PH-ES719LTG_AG
+PH-ES719LTG_DAG01        PH-ES719LTG_DAG01
+VCQP4000-PB                    VCQP4000-PB
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Componentes nuevos: 3
+120    DP-ATX-MATREXX55-MESH
+698           100-GD-0700-V2
+804        MPE-6001-ACAAB-EU
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Componentes sin stock: 13
+85                        100-GD-0700-V1
+1999                           7D09-003R
+2000                               XF140
+2001                        11295-05-20G
+2002                               83281
+2003                     90YV0DP1-M0NM00
+2004                     AK-340106-020-S
+2005                      CT500MX500SSD4
+2006                  MCB-B311L-KGNN-S01
+2007                            WD30EFRX
+2008                            WD80EFAX
+2009    ZT-A30600F-10P / 90YE00D1-B0NA00
+2010                                   0
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------

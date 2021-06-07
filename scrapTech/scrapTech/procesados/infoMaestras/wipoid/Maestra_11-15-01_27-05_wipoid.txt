@@ -1,0 +1,133 @@
+********************************************************************************************
+Fecha de creacion: Maestra_11-15-01_27-05_wipoid.txt
+********************************************************************************************
+WEB: wipoid
+Maestra: 09-19-01_27-05_maestra_wipoid.json
+Entrante: ./wipoid/11-15_27-05_wipoid.json
+------------------------------------------------------------------------------------------
+Componentes que han cambiado el precio: 43
+Suben de precio: 20
+id_item
+100-100000163WOF                100-100000163WOF
+100-100000167WOF                100-100000167WOF
+90MB11F0-M0EAY0                  90MB11F0-M0EAY0
+ASD600Q-960GU31-CBK          ASD600Q-960GU31-CBK
+BL2K16G36C16U4B                  BL2K16G36C16U4B
+BL2K8G26C16U4W                    BL2K8G26C16U4W
+F4-3000C16D-32GTZR            F4-3000C16D-32GTZR
+F4-3000C16Q-32GTZR            F4-3000C16Q-32GTZR
+F4-3200C14Q-64GTZR            F4-3200C14Q-64GTZR
+F4-3200C16Q-64GFX              F4-3200C16Q-64GFX
+F4-3600C16D-32GTRSC          F4-3600C16D-32GTRSC
+F4-3600C16Q-64GVKC            F4-3600C16Q-64GVKC
+F4-3600C18Q-64GTZN            F4-3600C18Q-64GTZN
+HX436C18FB3A/32                  HX436C18FB3A/32
+NH-D15S chromax.blac        NH-D15S chromax.blac
+STEB4000200                          STEB4000200
+TDZGD432G3600HC18JDC01    TDZGD432G3600HC18JDC01
+VP4100-1TBM28H                    VP4100-1TBM28H
+VPR100-1TBM28H                    VPR100-1TBM28H
+X570 AORUS MASTER              X570 AORUS MASTER
+Name: id_item, dtype: object
+Bajan de precio: 23
+id_item
+49352                                49352
+90YV0AU0-M0NA00            90YV0AU0-M0NA00
+911-7C75-003                  911-7C75-003
+911-7C95-017                  911-7C95-017
+911-7C96-006                  911-7C96-006
+CA-1L3-00M9WN-00          CA-1L3-00M9WN-00
+CMK32GX4M2A2666C16W    CMK32GX4M2A2666C16W
+CORE-GC-500                    CORE-GC-500
+CSSD-F1000GBMP400        CSSD-F1000GBMP400
+F4-3200C16Q-64GTZR      F4-3200C16Q-64GTZR
+F4-3600C18D-16GTZRX    F4-3600C18D-16GTZRX
+FD-C-DEF7X-01                FD-C-DEF7X-01
+FD-C-DEF7X-03                FD-C-DEF7X-03
+FD-C-MES2X-02                FD-C-MES2X-02
+HX436C17PB4AK2/16        HX436C17PB4AK2/16
+MX400                                MX400
+NH-D15 CH.BK                  NH-D15 CH.BK
+PVS432G300C6                  PVS432G300C6
+STJE1000400                    STJE1000400
+WDS100T3X0C                    WDS100T3X0C
+X570 AORUS ELITE          X570 AORUS ELITE
+X570 GAMING X                X570 GAMING X
+Z590 VISION D                Z590 VISION D
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Elementos que vuelven a estar disponibles: 31
+id_item
+100-100000011WOF            100-100000011WOF
+100-100000163WOF            100-100000163WOF
+220-GA-0650-X2                220-GA-0650-X2
+61645                                  61645
+90-MXBEZ0-A0UAYZ            90-MXBEZ0-A0UAYZ
+90-MXBF10-A0UAYZ            90-MXBF10-A0UAYZ
+90MB12Z0-M0EAY0              90MB12Z0-M0EAY0
+90MB1880-M0EAY0              90MB1880-M0EAY0
+90YV0AL1-M0NA00              90YV0AL1-M0NA00
+AX4U3600316G18A-ST50    AX4U3600316G18A-ST50
+BL2K16G36C16U4B              BL2K16G36C16U4B
+BL2K8G26C16U4W                BL2K8G26C16U4W
+CA-1L3-00M9WN-00            CA-1L3-00M9WN-00
+F4-3200C14D-16GTRS        F4-3200C14D-16GTRS
+F4-3200C14Q-64GTZR        F4-3200C14Q-64GTZR
+F4-3600C18Q2-256GTZN    F4-3600C18Q2-256GTZN
+FD-C-DEF7A-09                  FD-C-DEF7A-09
+FD-C-DEF7X-03                  FD-C-DEF7X-03
+FD-C-MES2X-02                  FD-C-MES2X-02
+HX432C16FB4K4/64            HX432C16FB4K4/64
+KVR16LS11/4                      KVR16LS11/4
+NH-D15S chromax.blac    NH-D15S chromax.blac
+NXKORE                                NXKORE
+PVB464G320C6K                  PVB464G320C6K
+PVS464G360C8K                  PVS464G360C8K
+ST3000DM007                      ST3000DM007
+STEB4000200                      STEB4000200
+STJE1000400                      STJE1000400
+VP4100-1TBM28H                VP4100-1TBM28H
+X570 AORUS MASTER          X570 AORUS MASTER
+Z590 VISION D                  Z590 VISION D
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Componentes nuevos: 0
+Series([], Name: id_item, dtype: object)
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Componentes sin stock: 28
+1547                      MPE-6501-ACABW
+2080                         B550M-A PRO
+2081                       Z490 VISION D
+2082             AXRX 5500XT 8GBD6-DH/OC
+2083                      BX80684I59500F
+2084                   MPE-6001-ACAAB-EU
+2085      ZT-T16600K-10M/90YE00D1-B0NA00
+2086    ZT-T16620F-10L / 90YE00D1-B0NA00
+2087                      DVI-D-M/HDMI-M
+2088    ZT-A30700J-10P / 90YE00D1-B0NA00
+2089                   MCS-S400-KG5N-S00
+2090                    CA-1P8-00M1WN-00
+2091                    CL-F077-PL14SW-A
+2092           FD-PSU-ION-SFX-650G-BK-EU
+2093    ZT-A30600F-10P / 90MB11N0-M0EAY0
+2094                      100-GD-0700-V1
+2095                           7D09-003R
+2096                               XF140
+2097                        11295-05-20G
+2098                               83281
+2099                     90YV0DP1-M0NM00
+2100                     AK-340106-020-S
+2101                      CT500MX500SSD4
+2102                  MCB-B311L-KGNN-S01
+2103                            WD30EFRX
+2104                            WD80EFAX
+2105    ZT-A30600F-10P / 90YE00D1-B0NA00
+2106                                   0
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------

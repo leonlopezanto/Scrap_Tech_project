@@ -1,0 +1,143 @@
+********************************************************************************************
+Fecha de creacion: Maestra_12-55-52_02-06_wipoid.txt
+********************************************************************************************
+WEB: wipoid
+Maestra: 11-02-12_02-06_maestra_wipoid.json
+Entrante: ./wipoid/12-55_02-06_wipoid.json
+
+-----WARNING: Elementos duplicados en entrante -----
+
+              id_item                         nombre
+1611  90MB14D0-M0EAY0  Asus Prime B550M-A WiFi M-ATX
+
+----------------------------------------
+
+------------------------------------------------------------------------------------------
+Componentes que han cambiado el precio: 15
+Suben de precio: 3
+id_item
+90YV0EH2-M0NA00    90YV0EH2-M0NA00
+90YV0FA5-M0NM00    90YV0FA5-M0NM00
+RACK-406N                RACK-406N
+Name: id_item, dtype: object
+Bajan de precio: 12
+id_item
+90-MXB6T0-A0UAYZ        90-MXB6T0-A0UAYZ
+90-MXB8F0-A0UAYZ        90-MXB8F0-A0UAYZ
+90-MXB9T0-A0UAYZ        90-MXB9T0-A0UAYZ
+90-MXBB10-A0UAYZ        90-MXBB10-A0UAYZ
+90-MXBBT0-A0UAYZ        90-MXBBT0-A0UAYZ
+90-MXBC40-A0UAYZ        90-MXBC40-A0UAYZ
+90-MXBC50-A0UAYZ        90-MXBC50-A0UAYZ
+90-MXBDF0-A0UAYZ        90-MXBDF0-A0UAYZ
+90-MXBDK0-A0UAYZ        90-MXBDK0-A0UAYZ
+AEROONEMINIFROSTBK    AEROONEMINIFROSTBK
+BGW36                              BGW36
+BN297                              BN297
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Elementos que vuelven a estar disponibles: 4
+id_item
+90MB15V0-M0EAY0                    90MB15V0-M0EAY0
+90YV0EH2-M0NA00                    90YV0EH2-M0NA00
+90YV0FA5-M0NM00                    90YV0FA5-M0NM00
+R-MACUBE110-WHNGM1N-G-1    R-MACUBE110-WHNGM1N-G-1
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Componentes nuevos: 0
+Series([], Name: id_item, dtype: object)
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Componentes sin stock: 85
+2054                       ZP1000GM30011
+2055                      100-W1-0500-K2
+2056                      100-W1-0600-K2
+2057                       4044951026609
+2058                    90-MXB5R0-A0UAYZ
+2059                    90-MXB6Y0-A0UAYZ
+2060                    90-MXB920-A0UAYZ
+2061                    90-MXB9B0-A0UAYZ
+2062                    90-MXB9U0-A0UAYZ
+2063                    90-MXB9W0-A0UAYZ
+2064                    90-MXBAW0-A0UAYZ
+2065                     90MB0YM0-M0EAY0
+2066                     90MB0YR0-M0EAYC
+2067                     90MB1090-M0EAY0
+2068                     90YV0CU0-M0NA00
+2069                     90YV0CU2-M0NA00
+2070                 AX4U300038G16A-ST41
+2071                       BX80684I39100
+2072                       BX80684I59400
+2073                      BX80684I79700F
+2074                       CC-9011188-WW
+2075           FD-CA-MESH-C-MINI-BKO-TGD
+2076                      GAB45ARSE-00-G
+2077                   MCS-S600-KN5N-S00
+2078                       MZ-76E500B/EU
+2079                         PHALANX_RGB
+2080                         WDS240G2G0A
+2081         Z390 AORUS XTREME WATERFOCE
+2082                      ZT-T16620D-10M
+2083                      ZT-T16620F-10L
+2084                      ZT-T20600F-10M
+2085                       3830046995735
+2086                     90LM05B0-B02170
+2087                      LC49G95TSSUXEN
+2088                 P-SDU256V11100EL-GE
+2089                     90MB15K0-M0EAY0
+2090                     90MB1800-M0EAY0
+2091                    90-MXB5Q0-A0UAYZ
+2092                BFC-ARA-300-WKWKK-RP
+2093                BFC-COM-100-KKWS1-RP
+2094                BFC-COM-100-WWWK1-RP
+2095                       CC-9011105-WW
+2096                 CMK32GX4M2B3000C15W
+2097                              CR-H5A
+2098                FD-CA-DEF-MINI-C-BK-
+2099                       MZ-76E250B/EU
+2100                     PH-EC416PSTG_AG
+2101                      PH-ES614LTG_BK
+2102                    PSICC-DVI2-BK-10
+2103                    SSD7CS900-120-PB
+2104                          SSR-1000TR
+2105                           IGG311820
+2106                           IGG312186
+2107                         KVR16LS11/4
+2108                     SDSSDA-120G-G27
+2109                     90YV0EI2-M0NA00
+2110    ZT-A30600H-10M / 90YE00D1-B0NA00
+2111                      MPE-6501-ACABW
+2112                         B550M-A PRO
+2113                       Z490 VISION D
+2114             AXRX 5500XT 8GBD6-DH/OC
+2115                      BX80684I59500F
+2116                   MPE-6001-ACAAB-EU
+2117      ZT-T16600K-10M/90YE00D1-B0NA00
+2118    ZT-T16620F-10L / 90YE00D1-B0NA00
+2119                      DVI-D-M/HDMI-M
+2120    ZT-A30700J-10P / 90YE00D1-B0NA00
+2121                   MCS-S400-KG5N-S00
+2122                    CA-1P8-00M1WN-00
+2123                    CL-F077-PL14SW-A
+2124           FD-PSU-ION-SFX-650G-BK-EU
+2125    ZT-A30600F-10P / 90MB11N0-M0EAY0
+2126                      100-GD-0700-V1
+2127                           7D09-003R
+2128                               XF140
+2129                        11295-05-20G
+2130                               83281
+2131                     90YV0DP1-M0NM00
+2132                     AK-340106-020-S
+2133                      CT500MX500SSD4
+2134                  MCB-B311L-KGNN-S01
+2135                            WD30EFRX
+2136                            WD80EFAX
+2137    ZT-A30600F-10P / 90YE00D1-B0NA00
+2138                                   0
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
