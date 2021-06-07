@@ -1,0 +1,132 @@
+********************************************************************************************
+Fecha de creacion: Maestra_11-49-01_17-05_wipoid.txt
+********************************************************************************************
+WEB: wipoid
+Maestra: 09-00-01_17-05_maestra_wipoid.json
+Entrante: ./wipoid/11-49_17-05_wipoid.json
+------------------------------------------------------------------------------------------
+Componentes que han cambiado el precio: 48
+Suben de precio: 23
+id_item
+52084                                  52084
+90-MXBES0-A0UAYZ            90-MXBES0-A0UAYZ
+AC-053-CN1OTN-C1            AC-053-CN1OTN-C1
+AGAMMIXS11P-1TT-C          AGAMMIXS11P-1TT-C
+BL16G32C16U4B                  BL16G32C16U4B
+BX8070110400F                  BX8070110400F
+BX8070110900K                  BX8070110900K
+BX80701G6600                    BX80701G6600
+CA-1P1-00M1WN-00            CA-1P1-00M1WN-00
+CA-1P4-00M1WN-00            CA-1P4-00M1WN-00
+CC-9011183-WW                  CC-9011183-WW
+CMK64GX4M2E3200C16        CMK64GX4M2E3200C16
+CSSD-F1920GBMP510          CSSD-F1920GBMP510
+F4-3200C16D-32GTZRX      F4-3200C16D-32GTZRX
+GP-ASM2NE6100TTTD          GP-ASM2NE6100TTTD
+PS-SPD-0750NNSABE-1      PS-SPD-0750NNSABE-1
+PS-TPD-0750FNFAGE-1      PS-TPD-0750FNFAGE-1
+PS-TPD-0850FNFAGE-1      PS-TPD-0850FNFAGE-1
+R019D408GX2-3200C16A    R019D408GX2-3200C16A
+ST3000DM007                      ST3000DM007
+TM8FP5512G0C110              TM8FP5512G0C110
+WDS500G2B0A                      WDS500G2B0A
+YD3000C6FHBOX                  YD3000C6FHBOX
+Name: id_item, dtype: object
+Bajan de precio: 25
+id_item
+100-100000086WOF          100-100000086WOF
+911-7C60-001                  911-7C60-001
+B550 AORUS PRO AC        B550 AORUS PRO AC
+BGW23                                BGW23
+CA-1E7-00M1WN-05          CA-1E7-00M1WN-05
+CA-1I7-00F1WN-03          CA-1I7-00F1WN-03
+CA-1M3-00M6WN-00          CA-1M3-00M6WN-00
+CL-F064-PL14SW-A          CL-F064-PL14SW-A
+CL-F072-PL12SW-A          CL-F072-PL12SW-A
+CL-F078-PL14SW-A          CL-F078-PL14SW-A
+CL-F079-PL12SW-A          CL-F079-PL12SW-A
+CL-F080-PL14SW-A          CL-F080-PL14SW-A
+CL-F088-PL12SW-A          CL-F088-PL12SW-A
+CL-P065-AL12SW-A          CL-P065-AL12SW-A
+CMT16GX4M2Z3200C16W    CMT16GX4M2Z3200C16W
+CP-9020105-EU                CP-9020105-EU
+CP-9020177-EU                CP-9020177-EU
+G99.12UF1B.00                G99.12UF1B.00
+GAB45ARSP-00-G              GAB45ARSP-00-G
+GMB55AEL2-00-G              GMB55AEL2-00-G
+HX432C16PB3AK2/32        HX432C16PB3AK2/32
+MZ-V8V1T0BW                    MZ-V8V1T0BW
+NH-D15                              NH-D15
+NH-U12S                            NH-U12S
+TM8FP5512G0C110            TM8FP5512G0C110
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Elementos que vuelven a estar disponibles: 37
+id_item
+0-761345-81103-3                      0-761345-81103-3
+52084                                            52084
+90DC00B0-B39000                        90DC00B0-B39000
+90MB10T0-M0EAY0                        90MB10T0-M0EAY0
+AC-053-CN1OTN-C1                      AC-053-CN1OTN-C1
+AGAMMIXS11P-2TT-C                    AGAMMIXS11P-2TT-C
+AGAMMIXS70-2T-C                        AGAMMIXS70-2T-C
+ASU650SS-120GT-R                      ASU650SS-120GT-R
+B460M D3H                                    B460M D3H
+B460M GAMING HD                        B460M GAMING HD
+BX8070110900K                            BX8070110900K
+CA-1E7-00M1WN-05                      CA-1E7-00M1WN-05
+CA-1I7-00F1WN-03                      CA-1I7-00F1WN-03
+CA-1M3-00M6WN-00                      CA-1M3-00M6WN-00
+CC-9011135-WW                            CC-9011135-WW
+CC-9011183-WW                            CC-9011183-WW
+CC-9011205-WW                            CC-9011205-WW
+CL-F063-PL12SW-A                      CL-F063-PL12SW-A
+CL-F079-PL12SW-A                      CL-F079-PL12SW-A
+CMK64GX4M2E3200C16                  CMK64GX4M2E3200C16
+CP-9020105-EU                            CP-9020105-EU
+CT2000P2SSD8                              CT2000P2SSD8
+DP-ATX-MATREXX50-AR-4F-NE    DP-ATX-MATREXX50-AR-4F-NE
+F4-3600C18D-32GVK                    F4-3600C18D-32GVK
+G99.12UF1B.00                            G99.12UF1B.00
+HORIZON                                        HORIZON
+HX432C16PB3AK2/32                    HX432C16PB3AK2/32
+HX436C18FB3K2/64                      HX436C18FB3K2/64
+MCB-B311L-KGNN-S02                  MCB-B311L-KGNN-S02
+MFL-B2DN-18NPA-R1                    MFL-B2DN-18NPA-R1
+MZ-V7S2T0BW                                MZ-V7S2T0BW
+R009D408GX2-3200C16A              R009D408GX2-3200C16A
+TDZRD432G3600HC18J                  TDZRD432G3600HC18J
+VCQP1000V2-PB                            VCQP1000V2-PB
+VP4100-1TBM28H                          VP4100-1TBM28H
+YD3000C6FHBOX                            YD3000C6FHBOX
+ZP2000GM30021                            ZP2000GM30021
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Componentes nuevos: 1
+665    CP-9020137-EU
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Componentes sin stock: 15
+2002           FD-PSU-ION-SFX-650G-BK-EU
+2003    ZT-A30600F-10P / 90MB11N0-M0EAY0
+2004                      100-GD-0700-V1
+2005                           7D09-003R
+2006                               XF140
+2007                        11295-05-20G
+2008                               83281
+2009                     90YV0DP1-M0NM00
+2010                     AK-340106-020-S
+2011                      CT500MX500SSD4
+2012                  MCB-B311L-KGNN-S01
+2013                            WD30EFRX
+2014                            WD80EFAX
+2015    ZT-A30600F-10P / 90YE00D1-B0NA00
+2016                                   0
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------

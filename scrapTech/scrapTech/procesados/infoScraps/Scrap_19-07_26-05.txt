@@ -1,0 +1,70 @@
+********************************************************************************************
+Fecha de extraccion: Scrap_19-07_26-05.txt
+Araña:
+	wipoid
+	pccomponentes
+
+WEB: Tiempo de extraccion: 160.52469682693481
+********************************************************************************************
+
+
+
+------------------------------------Datos de limpieza de :./pccomponentes/19-07_26-05_pccomponentes.json
+
+
+Numero de reacondicionados: 208
+No hay campos nulos
+
+Informacion duplicados:
+ 
+            id_item                                             nombre
+2667    GP-ALQCO360  Gigabyte Aorus Liquid Cooler 360 Kit de Refrig...
+3739  CX-9020005-WW  Corsair Hydro X Series XG7 RGB 20-Series (2080...
+
+
+Informacion dataset:
+
+
+Descripcion:
+            precio
+count  5119.000000
+mean    139.460441
+std     223.235132
+min       0.670000
+25%      45.025000
+50%      86.980000
+75%     158.735000
+max    5636.430000
+
+Numero de filas: 5119
+
+Numero de columnas: 8
+
+
+
+------------------------------------Datos de limpieza de :./wipoid/19-07_26-05_wipoid.json
+
+No hay campos nulos
+
+Informacion duplicados:
+ 
+No existen duplicados
+
+
+Informacion dataset:
+
+
+Descripcion:
+            precio
+count  2080.000000
+mean    168.177822
+std     283.606575
+min       1.200000
+25%      57.372500
+50%      99.000000
+75%     176.050000
+max    5629.000000
+
+Numero de filas: 2080
+
+Numero de columnas: 7

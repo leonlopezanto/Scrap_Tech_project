@@ -1,0 +1,135 @@
+********************************************************************************************
+Fecha de creacion: Maestra_11-08-01_26-05_wipoid.txt
+********************************************************************************************
+WEB: wipoid
+Maestra: 09-11-01_26-05_maestra_wipoid.json
+Entrante: ./wipoid/11-08_26-05_wipoid.json
+------------------------------------------------------------------------------------------
+Componentes que han cambiado el precio: 45
+Suben de precio: 14
+id_item
+90-MXBCS0-A0UAYZ        90-MXBCS0-A0UAYZ
+90MB0YR0-M0EAYC          90MB0YR0-M0EAYC
+90MB13E0-M0EAY0          90MB13E0-M0EAY0
+911-7C95-017                911-7C95-017
+ASX8200PNP-256GT-C    ASX8200PNP-256GT-C
+CA-1L3-00M9WN-00        CA-1L3-00M9WN-00
+CSSD-F2000GBMP400      CSSD-F2000GBMP400
+CSSD-F8000GBMP400      CSSD-F8000GBMP400
+PH-ES719LTG_AG            PH-ES719LTG_AG
+PH-ES719LTG_DAG01      PH-ES719LTG_DAG01
+T253X5240G0C101          T253X5240G0C101
+VCQP4000-PB                  VCQP4000-PB
+WD60EFAX                        WD60EFAX
+Z590 AORUS XTREME      Z590 AORUS XTREME
+Name: id_item, dtype: object
+Bajan de precio: 31
+id_item
+100-100000011WOF          100-100000011WOF
+100-100000025BOX          100-100000025BOX
+90-MXBEJ0-A0UAYZ          90-MXBEJ0-A0UAYZ
+90-MXBEL0-A0UAYZ          90-MXBEL0-A0UAYZ
+90-MXBF00-A0UAYZ          90-MXBF00-A0UAYZ
+90-MXBF50-A0UAYZ          90-MXBF50-A0UAYZ
+911-7B51-007                  911-7B51-007
+B560M DS3H                      B560M DS3H
+BN298                                BN298
+BX8070811900                  BX8070811900
+CMK32GX4M2A2666C16      CMK32GX4M2A2666C16
+CMW32GX4M2E3200C16W    CMW32GX4M2E3200C16W
+CSSD-F1000GBMP600        CSSD-F1000GBMP600
+F4-3200C16Q-64GFX        F4-3200C16Q-64GFX
+F4-3200C16Q-64GTZR      F4-3200C16Q-64GTZR
+F4-3200C16Q-64GVK        F4-3200C16Q-64GVK
+F4-3200C16Q2-256GVK    F4-3200C16Q2-256GVK
+F4-3600C17D-16GTZR      F4-3600C17D-16GTZR
+HX432C16FB3K4/128        HX432C16FB3K4/128
+HX432C16FB4K4/64          HX432C16FB4K4/64
+HX436C18FB3AK2/64        HX436C18FB3AK2/64
+HX436C18FB3K2/64          HX436C18FB3K2/64
+HX436C18FB3K4/128        HX436C18FB3K4/128
+LC49G95TSSUXEN              LC49G95TSSUXEN
+P210S2TB25                      P210S2TB25
+PVB48G300C6K                  PVB48G300C6K
+PVR416G320C6K                PVR416G320C6K
+PVS416G320C6K                PVS416G320C6K
+PVS432G300C6                  PVS432G300C6
+PVS432G320C6K                PVS432G320C6K
+PVS464G360C8K                PVS464G360C8K
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Elementos que vuelven a estar disponibles: 35
+id_item
+61645                                  61645
+90-MXB5R0-A0UAYZ            90-MXB5R0-A0UAYZ
+90-MXBA83-A0UAYZ            90-MXBA83-A0UAYZ
+90-MXBCS0-A0UAYZ            90-MXBCS0-A0UAYZ
+90MB0YR0-M0EAYC              90MB0YR0-M0EAYC
+90MB13E0-M0EAY0              90MB13E0-M0EAY0
+90MB1730-M0EAY0              90MB1730-M0EAY0
+90MB1760-M0EAY0              90MB1760-M0EAY0
+90MB17B0-M0EAY0              90MB17B0-M0EAY0
+911-7C73-002                    911-7C73-002
+ASU650SS-120GT-R            ASU650SS-120GT-R
+B460M D3H                          B460M D3H
+BX8070110600                    BX8070110600
+CA-1G4-00M1WN-06            CA-1G4-00M1WN-06
+CA-1L3-00M9WN-00            CA-1L3-00M9WN-00
+CMK32GX4M2A2400C16        CMK32GX4M2A2400C16
+CMK64GX4M2D3000C16        CMK64GX4M2D3000C16
+CSSD-F1000GBMP600          CSSD-F1000GBMP600
+CSSD-F8000GBMP400          CSSD-F8000GBMP400
+F4-3000C15Q-32GTZR        F4-3000C15Q-32GTZR
+F4-3200C14D-16GVK          F4-3200C14D-16GVK
+F4-3200C16Q-64GTZR        F4-3200C16Q-64GTZR
+F4-3600C17D-16GTZR        F4-3600C17D-16GTZR
+HX432C16FB4K4/64            HX432C16FB4K4/64
+HX436C18FB3AK2/64          HX436C18FB3AK2/64
+HX436C18FB3K2/64            HX436C18FB3K2/64
+PH-ES719LTG_AG                PH-ES719LTG_AG
+PH-ES719LTG_DAG01          PH-ES719LTG_DAG01
+PS-TPI-1050F2FDPE-1      PS-TPI-1050F2FDPE-1
+PVB464G320C6K                  PVB464G320C6K
+PVS464G360C8K                  PVS464G360C8K
+R009D408GX2-3200C16A    R009D408GX2-3200C16A
+TM8FP5001T0C110              TM8FP5001T0C110
+VCQP4000-PB                      VCQP4000-PB
+Z590 AORUS XTREME          Z590 AORUS XTREME
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Componentes nuevos: 0
+Series([], Name: id_item, dtype: object)
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Componentes sin stock: 24
+842                       BX80684I59500F
+1549                   MPE-6001-ACAAB-EU
+2067      ZT-T16600K-10M/90YE00D1-B0NA00
+2070    ZT-T16620F-10L / 90YE00D1-B0NA00
+2084                      DVI-D-M/HDMI-M
+2085    ZT-A30700J-10P / 90YE00D1-B0NA00
+2086                   MCS-S400-KG5N-S00
+2087                    CA-1P8-00M1WN-00
+2088                    CL-F077-PL14SW-A
+2089           FD-PSU-ION-SFX-650G-BK-EU
+2090    ZT-A30600F-10P / 90MB11N0-M0EAY0
+2091                      100-GD-0700-V1
+2092                           7D09-003R
+2093                               XF140
+2094                        11295-05-20G
+2095                               83281
+2096                     90YV0DP1-M0NM00
+2097                     AK-340106-020-S
+2098                      CT500MX500SSD4
+2099                  MCB-B311L-KGNN-S01
+2100                            WD30EFRX
+2101                            WD80EFAX
+2102    ZT-A30600F-10P / 90YE00D1-B0NA00
+2103                                   0
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------

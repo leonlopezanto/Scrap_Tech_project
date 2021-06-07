@@ -26,8 +26,16 @@ for w in webs:
     #Convertimos a fecha y ordenamos
     dates.sort(key=lambda date: datetime.strptime(date, "%H-%M_%d-%m"))
     
-
+    ##gm = Gm.Gestion_maestras(w, carpeta, nombre=fecha) -> Extraemos el nombre y aniadimos el segundo
+    
     
     for i in dates:
-        gm = Gm.Gestion_maestras(w, './'+ w +'/' + i + extraerFinal)
-        gm.proceso()
+        try:
+            principio = i[:5] 
+            final = i[5:]
+            nombre = principio + '-01' + final
+            
+            gm = Gm.Gestion_maestras(w, './'+ w +'/' + i + extraerFinal, nombre=nombre)
+            gm.proceso()
+        except:
+            print("Ha fallado :"+ i)

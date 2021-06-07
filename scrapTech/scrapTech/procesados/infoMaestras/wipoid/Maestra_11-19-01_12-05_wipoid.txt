@@ -1,0 +1,114 @@
+********************************************************************************************
+Fecha de creacion: Maestra_11-19-01_12-05_wipoid.txt
+********************************************************************************************
+WEB: wipoid
+Maestra: 08-58-01_12-05_maestra_wipoid.json
+Entrante: ./wipoid/11-19_12-05_wipoid.json
+------------------------------------------------------------------------------------------
+Componentes que han cambiado el precio: 34
+Suben de precio: 11
+id_item
+24G-P5-3987-KR          24G-P5-3987-KR
+90-MXBEZ0-A0UAYZ      90-MXBEZ0-A0UAYZ
+90MB0ZB0-M0EAY0        90MB0ZB0-M0EAY0
+AGAMMIXS70-1T-C        AGAMMIXS70-1T-C
+B460M GAMING HD        B460M GAMING HD
+F4-3200C14Q-32GFX    F4-3200C14Q-32GFX
+HX432C16FB3K4/128    HX432C16FB3K4/128
+NXHUMMERH312              NXHUMMERH312
+P210S2TB25                  P210S2TB25
+TM8FP5512G0C110        TM8FP5512G0C110
+ZP2000GM30021            ZP2000GM30021
+Name: id_item, dtype: object
+Bajan de precio: 23
+id_item
+385BMB0.0002              385BMB0.0002
+90-MXBAR0-A0UAYZ      90-MXBAR0-A0UAYZ
+90-MXBDG0-A0UAYZ      90-MXBDG0-A0UAYZ
+90-MXBE50-A0UAYZ      90-MXBE50-A0UAYZ
+90-MXBE60-A0UAYZ      90-MXBE60-A0UAYZ
+911-7C96-001              911-7C96-001
+BX8070811600KF          BX8070811600KF
+CC-9011182-WW            CC-9011182-WW
+CT250MX500SSD1          CT250MX500SSD1
+CT32G4DFD8266            CT32G4DFD8266
+GAA52MH-00-G              GAA52MH-00-G
+HX432C16PB3/32          HX432C16PB3/32
+HX436C17FB3K2/16      HX436C17FB3K2/16
+HX436C18FB3AK2/64    HX436C18FB3AK2/64
+HX436C18FB3K4/128    HX436C18FB3K4/128
+MZ-76P1T0B/EU            MZ-76P1T0B/EU
+MZ-77Q2T0BW                MZ-77Q2T0BW
+O11DXL-W                      O11DXL-W
+P210S1TB25                  P210S1TB25
+SDSSDA-240G-G26        SDSSDA-240G-G26
+TM8FP5512G0C110        TM8FP5512G0C110
+WDS500G1X0E                WDS500G1X0E
+Z490 AORUS XTREME    Z490 AORUS XTREME
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Elementos que vuelven a estar disponibles: 36
+id_item
+7D14-008R                                        7D14-008R
+90-MXBEL0-A0UAYZ                          90-MXBEL0-A0UAYZ
+90-MXBEZ0-A0UAYZ                          90-MXBEZ0-A0UAYZ
+90DC0023-B39000                            90DC0023-B39000
+90MB0ZB0-M0EAY0                            90MB0ZB0-M0EAY0
+90MB10T0-M0EAY0                            90MB10T0-M0EAY0
+90MB11B0-M0EAY0                            90MB11B0-M0EAY0
+90MB16N0-M0EAY0                            90MB16N0-M0EAY0
+B460M D3H                                        B460M D3H
+B460M GAMING HD                            B460M GAMING HD
+B550 VISION D                                B550 VISION D
+BX8070110500                                  BX8070110500
+BX8070811600KF                              BX8070811600KF
+CC-9011183-WW                                CC-9011183-WW
+DP-ATX-MATREXX55V3-AR-WH-3F    DP-ATX-MATREXX55V3-AR-WH-3F
+F4-3200C14D-16GVK                        F4-3200C14D-16GVK
+F4-3200C14Q-32GFX                        F4-3200C14Q-32GFX
+F4-3200C16D-64GTZN                      F4-3200C16D-64GTZN
+F4-3200C16Q-128GVK                      F4-3200C16Q-128GVK
+F4-3200C16Q2-256GVK                    F4-3200C16Q2-256GVK
+FD-C-DEF7A-03                                FD-C-DEF7A-03
+HX432C16FB3K4/128                        HX432C16FB3K4/128
+HX436C18FB3A/32                            HX436C18FB3A/32
+HX436C18FB3AK2/64                        HX436C18FB3AK2/64
+HX436C18FB3K2/64                          HX436C18FB3K2/64
+HX436C18FB3K4/128                        HX436C18FB3K4/128
+NXHUMMERH312                                  NXHUMMERH312
+NXKORE                                              NXKORE
+O11DXL-W                                          O11DXL-W
+RR-212S-20PC-R1                            RR-212S-20PC-R1
+STRONGHOLD                                      STRONGHOLD
+TM8FP5512G0C110                            TM8FP5512G0C110
+TTCCD416G3200HC22DC01                TTCCD416G3200HC22DC01
+WD80EFBX                                          WD80EFBX
+ZP2000GM30021                                ZP2000GM30021
+tal-shield rgb                              tal-shield rgb
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Componentes nuevos: 1
+1624    911-7D09-002
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Componentes sin stock: 12
+193                            7D09-003R
+1753                               XF140
+1998                        11295-05-20G
+1999                               83281
+2000                     90YV0DP1-M0NM00
+2001                     AK-340106-020-S
+2002                      CT500MX500SSD4
+2003                  MCB-B311L-KGNN-S01
+2004                            WD30EFRX
+2005                            WD80EFAX
+2006    ZT-A30600F-10P / 90YE00D1-B0NA00
+2007                                   0
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------

@@ -1,0 +1,70 @@
+********************************************************************************************
+Fecha de extraccion: Scrap_10-03_28-05.txt
+Araña:
+	wipoid
+	pccomponentes
+
+WEB: Tiempo de extraccion: 111.04857399463654
+********************************************************************************************
+
+
+
+------------------------------------Datos de limpieza de :./pccomponentes/10-03_28-05_pccomponentes.json
+
+
+Numero de reacondicionados: 199
+
+Los campos nulos sonInt64Index([4329], dtype='int64')
+
+Informacion duplicados:
+ 
+            id_item                                             nombre
+4100  CX-9020005-WW  Corsair Hydro X Series XG7 RGB 20-Series (2080...
+
+
+Informacion dataset:
+
+
+Descripcion:
+            precio
+count  5192.000000
+mean    142.242117
+std     245.480557
+min       0.670000
+25%      45.122500
+50%      87.000000
+75%     158.990000
+max    7171.980000
+
+Numero de filas: 5192
+
+Numero de columnas: 8
+
+
+
+------------------------------------Datos de limpieza de :./wipoid/10-03_28-05_wipoid.json
+
+No hay campos nulos
+
+Informacion duplicados:
+ 
+No existen duplicados
+
+
+Informacion dataset:
+
+
+Descripcion:
+            precio
+count  2068.000000
+mean    168.590595
+std     284.298268
+min       1.200000
+25%      57.937500
+50%      99.900000
+75%     176.600000
+max    5629.000000
+
+Numero de filas: 2068
+
+Numero de columnas: 7

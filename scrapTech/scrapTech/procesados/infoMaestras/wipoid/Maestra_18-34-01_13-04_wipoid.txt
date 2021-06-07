@@ -1,0 +1,133 @@
+********************************************************************************************
+Fecha de creacion: Maestra_18-34-01_13-04_wipoid.txt
+********************************************************************************************
+WEB: wipoid
+Maestra: 22-57-01_12-04_maestra_wipoid.json
+Entrante: ./wipoid/18-34_13-04_wipoid.json
+------------------------------------------------------------------------------------------
+Componentes que han cambiado el precio: 45
+Suben de precio: 29
+id_item
+75260051                            75260051
+90-MXBDQ0-A0UAYZ            90-MXBDQ0-A0UAYZ
+90YV0DW1-M0NA00              90YV0DW1-M0NA00
+90YV0FR1-M0NA00              90YV0FR1-M0NA00
+ACCM-PB13033.11              ACCM-PB13033.11
+AGAMMIXS11P-1TT-C          AGAMMIXS11P-1TT-C
+BFC-NVM-300-KKXSK-RP    BFC-NVM-300-KKXSK-RP
+BGW34                                  BGW34
+BL2K16G32C16U4B              BL2K16G32C16U4B
+BP-WG750UMAG-9FM            BP-WG750UMAG-9FM
+BX80684I59400                  BX80684I59400
+BX80684I79700                  BX80684I79700
+BX80684I79700K                BX80684I79700K
+BX8070110400F                  BX8070110400F
+BX8070110600KF                BX8070110600KF
+CA-1P6-00F1WN-00            CA-1P6-00F1WN-00
+CC-9011182-WW                  CC-9011182-WW
+CMK16GX4M2B3200C16        CMK16GX4M2B3200C16
+CMK16GX4M2B3200C16R      CMK16GX4M2B3200C16R
+CMT16GX4M2C3000C15        CMT16GX4M2C3000C15
+CMT16GX4M2Z3200C16W      CMT16GX4M2Z3200C16W
+HX426C16FB3K2/16            HX426C16FB3K2/16
+HX430C15PB3K4/64            HX430C15PB3K4/64
+HX432C16PB3AK4/64          HX432C16PB3AK4/64
+MFL-B2DN-18NPA-R1          MFL-B2DN-18NPA-R1
+MZ-N6E250BW                      MZ-N6E250BW
+R009D408GX2-3200C16A    R009D408GX2-3200C16A
+SDSSDA-240G-G26              SDSSDA-240G-G26
+YD3200C5FHBOX                  YD3200C5FHBOX
+Name: id_item, dtype: object
+Bajan de precio: 16
+id_item
+70SB157000000                      70SB157000000
+90-MXBDJ0-A0UAYZ                90-MXBDJ0-A0UAYZ
+90-MXBEP0-A0UAYZ                90-MXBEP0-A0UAYZ
+90-MXBEQ0-A0UAYZ                90-MXBEQ0-A0UAYZ
+ACFRE00085A                          ACFRE00085A
+AS40G-512GT-C                      AS40G-512GT-C
+BX80684I99900                      BX80684I99900
+BX80684I99900K                    BX80684I99900K
+BX8070811700K                      BX8070811700K
+CMK64GX4M2E3200C16            CMK64GX4M2E3200C16
+CT1000P2SSD8                        CT1000P2SSD8
+MCB-NR200P-WGNN-S00          MCB-NR200P-WGNN-S00
+SDSSDH3-1T00-G25                SDSSDH3-1T00-G25
+TDZRD432G3200HC16FDC01    TDZRD432G3200HC16FDC01
+TF10D416G3600HC18J            TF10D416G3600HC18J
+Z590 GAMING X                      Z590 GAMING X
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Elementos que vuelven a estar disponibles: 42
+id_item
+100-100000011WOF            100-100000011WOF
+100-W1-0500-K2                100-W1-0500-K2
+75260051                            75260051
+75260179                            75260179
+90-MXBF00-A0UAYZ            90-MXBF00-A0UAYZ
+90MB1090-M0EAY0              90MB1090-M0EAY0
+90MB10Z0-M0EAY0              90MB10Z0-M0EAY0
+90MB1730-M0EAY0              90MB1730-M0EAY0
+90YV0A70-M0NA00              90YV0A70-M0NA00
+90YV0A75-M0NA00              90YV0A75-M0NA00
+90YV0EZ1-M0NA00              90YV0EZ1-M0NA00
+90YV0EZ2-M0NA00              90YV0EZ2-M0NA00
+90YV0GB2-M0NA00              90YV0GB2-M0NA00
+911-7C37-001                    911-7C37-001
+AEROONEECLIPSEWH            AEROONEECLIPSEWH
+AFACO-090P0-GBA01          AFACO-090P0-GBA01
+ASU650SS-120GT-R            ASU650SS-120GT-R
+AX4U320038G16A-SB30      AX4U320038G16A-SB30
+BFC-NVM-300-KKXSK-RP    BFC-NVM-300-KKXSK-RP
+BX80684I59400                  BX80684I59400
+BX80684I59500F                BX80684I59500F
+BX80684I79700K                BX80684I79700K
+BX80684I99900K                BX80684I99900K
+BX8070110400                    BX8070110400
+CA-1P1-00M1WN-00            CA-1P1-00M1WN-00
+CA-1P6-00F1WN-00            CA-1P6-00F1WN-00
+CC-9011135-WW                  CC-9011135-WW
+CC-9011210-WW                  CC-9011210-WW
+CC-9011213-WW                  CC-9011213-WW
+CMK32GX4M4B3200C16        CMK32GX4M4B3200C16
+CMK64GX4M2E3200C16        CMK64GX4M2E3200C16
+DP-MCH4-GMX-GTE-V2BK    DP-MCH4-GMX-GTE-V2BK
+DP-MCH4-GMX400S              DP-MCH4-GMX400S
+HX430C15PB3K4/64            HX430C15PB3K4/64
+HX432C16PB3AK4/64          HX432C16PB3AK4/64
+MFL-B2DN-18NPA-R1          MFL-B2DN-18NPA-R1
+MFX-B4DN-14NPA-R1          MFX-B4DN-14NPA-R1
+MZ-N6E250BW                      MZ-N6E250BW
+R009D408GX2-3200C16A    R009D408GX2-3200C16A
+SDSSDA-240G-G26              SDSSDA-240G-G26
+SKC600/256G                      SKC600/256G
+YD3200C5FHBOX                  YD3200C5FHBOX
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Componentes nuevos: 14
+8            BIG CHUNGUS V2
+10             DP-EC-PEC300
+818        AC-053-CN1OTN-C1
+883        CA-1R8-00M1WN-00
+884        CA-1R5-00M1WN-00
+886        CA-1R1-00S1WN-00
+887        CA-1R3-00S1WN-00
+889        CA-1R9-00M1WN-00
+890        0-761345-11608-4
+891        0-761345-81022-7
+892        0-761345-80100-3
+893        CA-1R4-00S1WN-00
+1660    PS-SPD-0750NNSABE-1
+1773       0-761345-11644-2
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Componentes sin stock: 1
+1786    0
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------

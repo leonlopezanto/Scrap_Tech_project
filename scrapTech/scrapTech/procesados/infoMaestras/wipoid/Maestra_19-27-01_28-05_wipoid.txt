@@ -1,0 +1,109 @@
+********************************************************************************************
+Fecha de creacion: Maestra_19-27-01_28-05_wipoid.txt
+********************************************************************************************
+WEB: wipoid
+Maestra: 17-35-01_28-05_maestra_wipoid.json
+Entrante: ./wipoid/19-27_28-05_wipoid.json
+
+-----WARNING: Elementos duplicados en entrante -----
+
+              id_item                         nombre
+1631  90MB14D0-M0EAY0  Asus Prime B550M-A WiFi M-ATX
+
+----------------------------------------
+
+------------------------------------------------------------------------------------------
+Componentes que han cambiado el precio: 4
+Suben de precio: 3
+id_item
+CC-9011126-WW        CC-9011126-WW
+CC-9011137-WW        CC-9011137-WW
+VPN100-512GM28H    VPN100-512GM28H
+Name: id_item, dtype: object
+Bajan de precio: 1
+id_item
+90MB14D0-M0EAY0    90MB14D0-M0EAY0
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Elementos que vuelven a estar disponibles: 4
+id_item
+90MB14D0-M0EAY0    90MB14D0-M0EAY0
+CC-9011126-WW        CC-9011126-WW
+CC-9011137-WW        CC-9011137-WW
+VPN100-512GM28H    VPN100-512GM28H
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Componentes nuevos: 8
+2003    RZ04-02051000-R3M1
+2004            C11CG32403
+2005              20002753
+2006            910-005179
+2007                 24073
+2008     GGD-LBS-BKEIRX-01
+2009                 TC3BB
+2011       90IG0560-MO3G00
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Componentes sin stock: 54
+133                        3830046995735
+337                      90LM05B0-B02170
+1476                      LC49G95TSSUXEN
+1676                 P-SDU256V11100EL-GE
+2069                     90MB15K0-M0EAY0
+2070                     90MB1800-M0EAY0
+2071                    90-MXB5Q0-A0UAYZ
+2072                BFC-ARA-300-WKWKK-RP
+2073                BFC-COM-100-KKWS1-RP
+2074                BFC-COM-100-WWWK1-RP
+2075                       CC-9011105-WW
+2076                 CMK32GX4M2B3000C15W
+2077                              CR-H5A
+2078                FD-CA-DEF-MINI-C-BK-
+2079                       MZ-76E250B/EU
+2080                     PH-EC416PSTG_AG
+2081                      PH-ES614LTG_BK
+2082                    PSICC-DVI2-BK-10
+2083                    SSD7CS900-120-PB
+2084                          SSR-1000TR
+2085                           IGG311820
+2086                           IGG312186
+2087                         KVR16LS11/4
+2088                     SDSSDA-120G-G27
+2089                     90YV0EI2-M0NA00
+2090    ZT-A30600H-10M / 90YE00D1-B0NA00
+2091                      MPE-6501-ACABW
+2092                         B550M-A PRO
+2093                       Z490 VISION D
+2094             AXRX 5500XT 8GBD6-DH/OC
+2095                      BX80684I59500F
+2096                   MPE-6001-ACAAB-EU
+2097      ZT-T16600K-10M/90YE00D1-B0NA00
+2098    ZT-T16620F-10L / 90YE00D1-B0NA00
+2099                      DVI-D-M/HDMI-M
+2100    ZT-A30700J-10P / 90YE00D1-B0NA00
+2101                   MCS-S400-KG5N-S00
+2102                    CA-1P8-00M1WN-00
+2103                    CL-F077-PL14SW-A
+2104           FD-PSU-ION-SFX-650G-BK-EU
+2105    ZT-A30600F-10P / 90MB11N0-M0EAY0
+2106                      100-GD-0700-V1
+2107                           7D09-003R
+2108                               XF140
+2109                        11295-05-20G
+2110                               83281
+2111                     90YV0DP1-M0NM00
+2112                     AK-340106-020-S
+2113                      CT500MX500SSD4
+2114                  MCB-B311L-KGNN-S01
+2115                            WD30EFRX
+2116                            WD80EFAX
+2117    ZT-A30600F-10P / 90YE00D1-B0NA00
+2118                                   0
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------

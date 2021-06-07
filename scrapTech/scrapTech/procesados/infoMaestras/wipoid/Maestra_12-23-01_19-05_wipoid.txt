@@ -1,0 +1,118 @@
+********************************************************************************************
+Fecha de creacion: Maestra_12-23-01_19-05_wipoid.txt
+********************************************************************************************
+WEB: wipoid
+Maestra: 10-20-01_19-05_maestra_wipoid.json
+Entrante: ./wipoid/12-23_19-05_wipoid.json
+------------------------------------------------------------------------------------------
+Componentes que han cambiado el precio: 42
+Suben de precio: 10
+id_item
+4044951019298                    4044951019298
+4044951019328                    4044951019328
+49352                                    49352
+90-MXBEL0-A0UAYZ              90-MXBEL0-A0UAYZ
+911-7C37-004                      911-7C37-004
+ASU650SS-240GT-C              ASU650SS-240GT-C
+NF-F12 iPPC-3000 PWM      NF-F12 iPPC-3000 PWM
+NH-U14S TR4-SP3                NH-U14S TR4-SP3
+ST6000DM003                        ST6000DM003
+X570 I AORUS PRO WIFI    X570 I AORUS PRO WIFI
+Name: id_item, dtype: object
+Bajan de precio: 32
+id_item
+100-100000087WOF                100-100000087WOF
+90-MXBBW0-A0UAYZ                90-MXBBW0-A0UAYZ
+ASU630SS-960GQ-R                ASU630SS-960GQ-R
+B460M DS3H V2                      B460M DS3H V2
+B550M S2H                              B550M S2H
+BG022                                      BG022
+BL2K8G26C16U4B                    BL2K8G26C16U4B
+BL2K8G32C16U4BL                  BL2K8G32C16U4BL
+BN303                                      BN303
+CMK32GX4M2Z3600C18            CMK32GX4M2Z3600C18
+CMW16GX4M2C3200C16W          CMW16GX4M2C3200C16W
+CSSD-F2000GBMP400              CSSD-F2000GBMP400
+F4-3000C16D-16GISB            F4-3000C16D-16GISB
+F4-3000C16D-32GTZR            F4-3000C16D-32GTZR
+F4-3000C16Q-32GTZR            F4-3000C16Q-32GTZR
+F4-3600C16D-32GTRSC          F4-3600C16D-32GTRSC
+F4-3600C16D-32GTZR            F4-3600C16D-32GTZR
+F4-3600C18Q-32GTZN            F4-3600C18Q-32GTZN
+F4-3600C18Q2-256GTZN        F4-3600C18Q2-256GTZN
+HX436C17FB3K2/16                HX436C17FB3K2/16
+MAG B560 TOMAHAWK WIFI    MAG B560 TOMAHAWK WIFI
+MAG B560 TORPEDO                MAG B560 TORPEDO
+MAG B560M MORTAR WIFI      MAG B560M MORTAR WIFI
+NF-A15 PWM                            NF-A15 PWM
+NXHUMMERH224NOIR                NXHUMMERH224NOIR
+U1PLUSSILVER                        U1PLUSSILVER
+VCQP1000V2-PB                      VCQP1000V2-PB
+VCQP400DVI-PB                      VCQP400DVI-PB
+WD4003FFBX                            WD4003FFBX
+WDS500G1X0E                          WDS500G1X0E
+Z590 AORUS MASTER              Z590 AORUS MASTER
+Z590 AORUS PRO AX              Z590 AORUS PRO AX
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Elementos que vuelven a estar disponibles: 20
+id_item
+4044951019298                    4044951019298
+4044951019328                    4044951019328
+90-MXBEL0-A0UAYZ              90-MXBEL0-A0UAYZ
+90MB15D0-M0EAY0                90MB15D0-M0EAY0
+911-7C75-003                      911-7C75-003
+AGAMMIXS11P-2TT-C            AGAMMIXS11P-2TT-C
+AS40G-2TT-C                        AS40G-2TT-C
+ASU650SS-240GT-C              ASU650SS-240GT-C
+AX4U3200732G16A-ST50      AX4U3200732G16A-ST50
+BL2K16G36C16U4B                BL2K16G36C16U4B
+CMK64GX4M2E3200C16          CMK64GX4M2E3200C16
+DP-MATX-MATREXX40-3FS    DP-MATX-MATREXX40-3FS
+NXHUMMERH224NOIR              NXHUMMERH224NOIR
+R-AS500-BKNLMP-G              R-AS500-BKNLMP-G
+SDSSDA-120G-G27                SDSSDA-120G-G27
+ST6000DM003                        ST6000DM003
+VCQP1000V2-PB                    VCQP1000V2-PB
+VCQP400DVI-PB                    VCQP400DVI-PB
+VPN100-512GM28H                VPN100-512GM28H
+YD3000C6FHBOX                    YD3000C6FHBOX
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Componentes nuevos: 10
+901         ZP2000CV3A001
+902          ZP500CV3A001
+903          ZA480CV1A001
+904          ZA960CV1A001
+905          ZA240CV1A001
+906              WD40EFAX
+907           STJE1000400
+908         ZA1000GM1A001
+909          ZA960NX1A001
+910    SSDPR-CL100-960-G3
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Componentes sin stock: 15
+2015           FD-PSU-ION-SFX-650G-BK-EU
+2016    ZT-A30600F-10P / 90MB11N0-M0EAY0
+2017                      100-GD-0700-V1
+2018                           7D09-003R
+2019                               XF140
+2020                        11295-05-20G
+2021                               83281
+2022                     90YV0DP1-M0NM00
+2023                     AK-340106-020-S
+2024                      CT500MX500SSD4
+2025                  MCB-B311L-KGNN-S01
+2026                            WD30EFRX
+2027                            WD80EFAX
+2028    ZT-A30600F-10P / 90YE00D1-B0NA00
+2029                                   0
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------

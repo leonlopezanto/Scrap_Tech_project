@@ -115,6 +115,14 @@ def arreglar_reacondicionado(df):
     index_refurbished = df[df['nombre'].str.contains(r"\bRefurbished\b", regex=True)].index
     index_reacondicionado = df[df['nombre'].str.contains(r"\bReacondicionado\b", regex=True)].index
     
+    #POSIBLE GESTIÓN DE REACONDICIONADOS
+    # mal_escritos = [r'\bReburbished\b', r'reburbished', r'Reacondicionado', 
+    #                 r'\breacondicionado\b', r'\brecondicionado\b', r'\breacondicionad\b', r'\bRecondicionado\b', 
+    #                 r'\bReacondicionad\b']
+    
+    # for i in mal_escritos:
+    #     reacondicionados = reacondicionados.concat[df[df['nombre'].str.contains(i, regex=True)].index
+    
     index_refurbished = index_reacondicionado.union(index_refurbished)
     print(index_refurbished)
 
@@ -202,6 +210,7 @@ def limpieza_dataset(file, informe, guardar=True, devolver=True):
         #En caso de que, por más cojones, este duplicado, habra que alterar el numero de serie.
         #Escribe en el informe las filas que contienen duplicados
         dup = df[df.duplicated('id_item')]
+        
         informe.escribirInfo(str(dup[['id_item', 'nombre']]))
     else:
         informe.escribirInfo("No existen duplicados")
@@ -224,8 +233,6 @@ def limpieza_dataset(file, informe, guardar=True, devolver=True):
     if devolver:
         return df
         
-
-
 
 def limpiar_todo():
     """
@@ -264,7 +271,6 @@ def limpiar_ultimo(informe):
 
 
 
-
 ###############################################################################Funciones generales
 #LIMPIA LA PALABRA REACONDICIONADO EN CASO DE ACUMULARSE y lo escribe si la variable es TRUE
 def limpiar_reacondicionados(df): 
@@ -291,5 +297,3 @@ def limpiar_reacondicionados(df):
     
     return df, numReacondicionados        
     
-
-

@@ -1,0 +1,107 @@
+********************************************************************************************
+Fecha de creacion: Maestra_11-23-01_20-05_wipoid.txt
+********************************************************************************************
+WEB: wipoid
+Maestra: 09-22-01_20-05_maestra_wipoid.json
+Entrante: ./wipoid/11-23_20-05_wipoid.json
+------------------------------------------------------------------------------------------
+Componentes que han cambiado el precio: 36
+Suben de precio: 14
+id_item
+BX80684I79700KF              BX80684I79700KF
+CMK8GX4M1A2666C16          CMK8GX4M1A2666C16
+CMW16GX4M2C3200C16        CMW16GX4M2C3200C16
+CSSD-F1000GBMP600COR    CSSD-F1000GBMP600COR
+CSSD-F240GBMP510            CSSD-F240GBMP510
+CSSD-F480GBMP510B          CSSD-F480GBMP510B
+CSSD-F960GBMP510B          CSSD-F960GBMP510B
+CT2000P2SSD8                    CT2000P2SSD8
+F4-4000C18D-32GTRS        F4-4000C18D-32GTRS
+FOCUS-GX-850                    FOCUS-GX-850
+MZ-77E500B/EU                  MZ-77E500B/EU
+TM8FP5512G0C110              TM8FP5512G0C110
+WD60EZAZ                            WD60EZAZ
+ZP2000CV3A001                  ZP2000CV3A001
+Name: id_item, dtype: object
+Bajan de precio: 22
+id_item
+70SB150000004                70SB150000004
+90-MXBFX0-A0UAYZ          90-MXBFX0-A0UAYZ
+911-7B89-020                  911-7B89-020
+911-7C95-017                  911-7C95-017
+911-7C96-006                  911-7C96-006
+911-7D14-006                  911-7D14-006
+BL2K16G32C16U4BL          BL2K16G32C16U4BL
+CMK32GX4M2Z3600C18      CMK32GX4M2Z3600C18
+CMW16GX4M2C3000C15W    CMW16GX4M2C3000C15W
+DP-BZ-DA500N                  DP-BZ-DA500N
+DP-BZ-DA600N                  DP-BZ-DA600N
+HX432C16PB3AK2/16        HX432C16PB3AK2/16
+MZ-77E2T0B/EU                MZ-77E2T0B/EU
+RR-2V2E-18PK-R1            RR-2V2E-18PK-R1
+SCMG-5102AR                    SCMG-5102AR
+SSDPR-CL100-960-G3      SSDPR-CL100-960-G3
+TM8FP5512G0C110            TM8FP5512G0C110
+VCQP400DVI-PB                VCQP400DVI-PB
+ZA1000GM1A001                ZA1000GM1A001
+ZA480CV1A001                  ZA480CV1A001
+ZA960CV1A001                  ZA960CV1A001
+ZP500CV3A001                  ZP500CV3A001
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Elementos que vuelven a estar disponibles: 24
+id_item
+3812430                          3812430
+4044951013951              4044951013951
+4044951026616              4044951026616
+90-MXBFX0-A0UAYZ        90-MXBFX0-A0UAYZ
+90YE0080-B001N0          90YE0080-B001N0
+B460M GAMING HD          B460M GAMING HD
+BX80684I59600K            BX80684I59600K
+BX80684I79700KF          BX80684I79700KF
+BX80684I99900K            BX80684I99900K
+CC-9011212-WW              CC-9011212-WW
+CL-F077-PL14SW-A        CL-F077-PL14SW-A
+CL-F080-PL14SW-A        CL-F080-PL14SW-A
+CT2000P2SSD8                CT2000P2SSD8
+FOCUS-GX-850                FOCUS-GX-850
+G99.12UF1B.00              G99.12UF1B.00
+NXKORE                            NXKORE
+SST-ECM20                      SST-ECM20
+STEB4000200                  STEB4000200
+TDZRD432G3600HC18J    TDZRD432G3600HC18J
+TM8FP5512G0C110          TM8FP5512G0C110
+VCQP400DVI-PB              VCQP400DVI-PB
+WD40EFAX                        WD40EFAX
+WD60EZAZ                        WD60EZAZ
+ZA1000GM1A001              ZA1000GM1A001
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Componentes nuevos: 1
+1890    GP-AG70S1TB
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Componentes sin stock: 15
+2039           FD-PSU-ION-SFX-650G-BK-EU
+2040    ZT-A30600F-10P / 90MB11N0-M0EAY0
+2041                      100-GD-0700-V1
+2042                           7D09-003R
+2043                               XF140
+2044                        11295-05-20G
+2045                               83281
+2046                     90YV0DP1-M0NM00
+2047                     AK-340106-020-S
+2048                      CT500MX500SSD4
+2049                  MCB-B311L-KGNN-S01
+2050                            WD30EFRX
+2051                            WD80EFAX
+2052    ZT-A30600F-10P / 90YE00D1-B0NA00
+2053                                   0
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------

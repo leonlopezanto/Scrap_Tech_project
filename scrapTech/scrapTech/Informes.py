@@ -10,7 +10,7 @@ from datetime import datetime
 
 class Informe():
     
-    def __init__(self, tipoInforme='Scrap', spiders=[]):
+    def __init__(self, tipoInforme='Scrap', spiders=[], web='', name=''):
         
         #Dos tipos de informe: Scraping y Maestras
         self.tipoInforme = tipoInforme
@@ -19,9 +19,12 @@ class Informe():
             self.file = "Scrap_" + datetime.now().strftime("%H-%M_%d-%m") + '.txt'
             self.spiders = spiders
         else:
-            self.dirInforme = './procesados/infoMaestras/'
-            self.file = "Maestra_" + datetime.now().strftime("%H-%M-%S_%d-%m") + '.txt'
-
+            self.dirInforme = './procesados/infoMaestras/' + web + '/'
+            if not name: 
+                self.file = "Maestra_" + datetime.now().strftime("%H-%M-%S_%d-%m") + '_' + web + '.txt'
+            else: 
+                self.file = "Maestra_" + name + '_' + web + '.txt'
+            
         self.ruta = self.dirInforme + self.file
 
             
@@ -29,6 +32,7 @@ class Informe():
         f = self.abrir()
         f.close() 
         self.cabecera()
+        self.escribirInfo('WEB: ' + web)
         
     def abrir(self):
         #Comprueba si existe

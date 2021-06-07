@@ -1,0 +1,98 @@
+********************************************************************************************
+Fecha de creacion: Maestra_10-42-01_21-05_wipoid.txt
+********************************************************************************************
+WEB: wipoid
+Maestra: 14-55-01_20-05_maestra_wipoid.json
+Entrante: ./wipoid/10-42_21-05_wipoid.json
+------------------------------------------------------------------------------------------
+Componentes que han cambiado el precio: 26
+Suben de precio: 12
+id_item
+100-100000031BOX                100-100000031BOX
+90-MXBEV0-A0UAYZ                90-MXBEV0-A0UAYZ
+90-MXBF10-A0UAYZ                90-MXBF10-A0UAYZ
+90MB0XX0-M0EAY0                  90MB0XX0-M0EAY0
+AGAMMIXS70-1T-C                  AGAMMIXS70-1T-C
+BX8070110600K                      BX8070110600K
+BX8070110600KF                    BX8070110600KF
+CT1000P5SSD8                        CT1000P5SSD8
+NF-P14S REDUX-1200 PWM    NF-P14S REDUX-1200 PWM
+TM8FP5512G0C110                  TM8FP5512G0C110
+VPN100-256GM28H                  VPN100-256GM28H
+WD80EFBX                                WD80EFBX
+Name: id_item, dtype: object
+Bajan de precio: 14
+id_item
+100-100000086WOF        100-100000086WOF
+90YV0AU0-M0NA00          90YV0AU0-M0NA00
+ACCM-PB12033.11          ACCM-PB12033.11
+BX80684I79700KF          BX80684I79700KF
+BX8070811700                BX8070811700
+CA-1P5-00M1WN-00        CA-1P5-00M1WN-00
+CP-9020186-EU              CP-9020186-EU
+CT2000P2SSD8                CT2000P2SSD8
+F4-3200C16Q-128GVK    F4-3200C16Q-128GVK
+HX432C16FB3K4/128      HX432C16FB3K4/128
+ST14000NE0008              ST14000NE0008
+TM8FP5512G0C110          TM8FP5512G0C110
+Z590 GAMING X              Z590 GAMING X
+ZA960CV1A001                ZA960CV1A001
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Elementos que vuelven a estar disponibles: 20
+id_item
+0-761345-11682-4                0-761345-11682-4
+84000000155                          84000000155
+90-MXBEV0-A0UAYZ                90-MXBEV0-A0UAYZ
+90-MXBF10-A0UAYZ                90-MXBF10-A0UAYZ
+90MB0XX0-M0EAY0                  90MB0XX0-M0EAY0
+90YV0G02-M0NA00                  90YV0G02-M0NA00
+CA-1P5-00M1WN-00                CA-1P5-00M1WN-00
+CMK64GX4M2D3000C16            CMK64GX4M2D3000C16
+COO-DGC-A191-0                    COO-DGC-A191-0
+CP-9020186-EU                      CP-9020186-EU
+DP-MATX-MATREXX40-3FS      DP-MATX-MATREXX40-3FS
+F4-3200C16Q-128GVK            F4-3200C16Q-128GVK
+F4-3200C16Q-64GTZR            F4-3200C16Q-64GTZR
+HX432C16FB3K4/128              HX432C16FB3K4/128
+HX436C18FB3K2/64                HX436C18FB3K2/64
+NF-P14S REDUX-1200 PWM    NF-P14S REDUX-1200 PWM
+TM8FP5512G0C110                  TM8FP5512G0C110
+WD60EZAZ                                WD60EZAZ
+WD80EFBX                                WD80EFBX
+X570 AORUS MASTER              X570 AORUS MASTER
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Componentes nuevos: 4
+447     PS-TPI-1050F2FDPE-1
+1101    PS-TPI-0850F3FDGE-1
+1363               0R200048
+1720              FAN4EXT12
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Componentes sin stock: 17
+2038                    CA-1P8-00M1WN-00
+2039                    CL-F077-PL14SW-A
+2040           FD-PSU-ION-SFX-650G-BK-EU
+2041    ZT-A30600F-10P / 90MB11N0-M0EAY0
+2042                      100-GD-0700-V1
+2043                           7D09-003R
+2044                               XF140
+2045                        11295-05-20G
+2046                               83281
+2047                     90YV0DP1-M0NM00
+2048                     AK-340106-020-S
+2049                      CT500MX500SSD4
+2050                  MCB-B311L-KGNN-S01
+2051                            WD30EFRX
+2052                            WD80EFAX
+2053    ZT-A30600F-10P / 90YE00D1-B0NA00
+2054                                   0
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------

@@ -1,0 +1,109 @@
+********************************************************************************************
+Fecha de creacion: Maestra_18-47-01_19-04_wipoid.txt
+********************************************************************************************
+WEB: wipoid
+Maestra: 22-36-01_18-04_maestra_wipoid.json
+Entrante: ./wipoid/18-47_19-04_wipoid.json
+------------------------------------------------------------------------------------------
+Componentes que han cambiado el precio: 47
+Suben de precio: 31
+id_item
+100-100000061WOF                100-100000061WOF
+100-GD-0600-V1                    100-GD-0600-V1
+90-MXBA83-A0UAYZ                90-MXBA83-A0UAYZ
+90MB0Z10-M0EAY0                  90MB0Z10-M0EAY0
+90MB11N0-M0EAY0                  90MB11N0-M0EAY0
+911-7C75-003                        911-7C75-003
+AEROONEECLIPSEWH                AEROONEECLIPSEWH
+BL2K8G32C16U4B                    BL2K8G32C16U4B
+BN297                                      BN297
+BN310                                      BN310
+BX8070110400F                      BX8070110400F
+BX8070110700                        BX8070110700
+BX8070811400F                      BX8070811400F
+CA-1M7-00M1WN-00                CA-1M7-00M1WN-00
+CA-1R5-00M1WN-00                CA-1R5-00M1WN-00
+CA-1R8-00M1WN-00                CA-1R8-00M1WN-00
+CA-H510E-W1                          CA-H510E-W1
+CL-F080-PL14SW-A                CL-F080-PL14SW-A
+CL-F088-PL12SW-A                CL-F088-PL12SW-A
+CMK64GX4M2D3000C16            CMK64GX4M2D3000C16
+CT32G4DFD8266                      CT32G4DFD8266
+MZ-77E2T0B/EU                      MZ-77E2T0B/EU
+NH-D15S                                  NH-D15S
+NH-U12S chromax.black      NH-U12S chromax.black
+PBU480GS25SSDR                    PBU480GS25SSDR
+SDSSDXPM2-1T00-G25            SDSSDXPM2-1T00-G25
+TLZGD416G3200HC16CDC01    TLZGD416G3200HC16CDC01
+ZT-A30600F-10P                    ZT-A30600F-10P
+ZT-A30700F-10P                    ZT-A30700F-10P
+ZT-A30800F-10P                    ZT-A30800F-10P
+ZT-T16620F-10L                    ZT-T16620F-10L
+Name: id_item, dtype: object
+Bajan de precio: 16
+id_item
+100-100000059WOF          100-100000059WOF
+90-MXBEJ0-A0UAYZ          90-MXBEJ0-A0UAYZ
+90-MXBES0-A0UAYZ          90-MXBES0-A0UAYZ
+911-7C92-004                  911-7C92-004
+A520M DS3H                      A520M DS3H
+A520M S2H                        A520M S2H
+ACFAN00139A                    ACFAN00139A
+B550M S2H                        B550M S2H
+CT500P2SSD8                    CT500P2SSD8
+CT500P5SSD8                    CT500P5SSD8
+F4-3600C16D-32GTZRC    F4-3600C16D-32GTZRC
+MCB-NR200P-KGNN-S00    MCB-NR200P-KGNN-S00
+MCZP                                  MCZP
+NXCBAYMX2                        NXCBAYMX2
+SENTINEL                          SENTINEL
+YD1600BBAFBOX                YD1600BBAFBOX
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Elementos que vuelven a estar disponibles: 22
+id_item
+100-100000059WOF            100-100000059WOF
+100-100000061WOF            100-100000061WOF
+100-100000163WOF            100-100000163WOF
+90-MXBCS0-A0UAYZ            90-MXBCS0-A0UAYZ
+90MB1760-M0EAY0              90MB1760-M0EAY0
+911-7C92-004                    911-7C92-004
+AEROONEECLIPSEWH            AEROONEECLIPSEWH
+BN297                                  BN297
+CA-1M7-00M1WN-00            CA-1M7-00M1WN-00
+CC-9011166-WW                  CC-9011166-WW
+CMK64GX4M2D3000C16        CMK64GX4M2D3000C16
+CMK8GX4M1A2400C14R        CMK8GX4M1A2400C14R
+CP-9020072-EU                  CP-9020072-EU
+CP-9020194-EU                  CP-9020194-EU
+CT32G4DFD8266                  CT32G4DFD8266
+FD-C-DEF7X-02                  FD-C-DEF7X-02
+HX432C16PB3/8                  HX432C16PB3/8
+NH-L9i                                NH-L9i
+NXCBAYMX2                          NXCBAYMX2
+PBU480GS25SSDR                PBU480GS25SSDR
+R022D408GX2-3600C18A    R022D408GX2-3600C18A
+ZT-T16620F-10L                ZT-T16620F-10L
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Componentes nuevos: 8
+372           RF-AF120-B1
+778           RF-AF140-B1
+1434      PH-ES620PC_BK01
+1459     CL-F078-PL14SW-A
+1461    PH-F120SK_BBK_PWM
+1462    PH-F140SK_BBK_PWM
+1472     CL-F073-PL12SW-A
+1572      90YE00A4-B0NA00
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Componentes sin stock: 1
+1822    0
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------

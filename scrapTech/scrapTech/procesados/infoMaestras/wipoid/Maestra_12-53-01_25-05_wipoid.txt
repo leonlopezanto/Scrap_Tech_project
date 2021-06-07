@@ -1,0 +1,98 @@
+********************************************************************************************
+Fecha de creacion: Maestra_12-53-01_25-05_wipoid.txt
+********************************************************************************************
+WEB: wipoid
+Maestra: 10-53-01_25-05_maestra_wipoid.json
+Entrante: ./wipoid/12-53_25-05_wipoid.json
+------------------------------------------------------------------------------------------
+Componentes que han cambiado el precio: 32
+Suben de precio: 8
+id_item
+90-MXBCK0-A0UAYZ        90-MXBCK0-A0UAYZ
+90-MXBDH0-A0UAYZ        90-MXBDH0-A0UAYZ
+911-7C83-002                911-7C83-002
+MCB-K500D-KGNN-S02    MCB-K500D-KGNN-S02
+MZ-V8V500BW                  MZ-V8V500BW
+PH-EC600PSC_BK01        PH-EC600PSC_BK01
+PYTHON                            PYTHON
+ST14000NE0008              ST14000NE0008
+Name: id_item, dtype: object
+Bajan de precio: 24
+id_item
+100-BR-0600-K2                100-BR-0600-K2
+70SB150000004                  70SB150000004
+90MB13G0-M0EAY0              90MB13G0-M0EAY0
+911-7C37-020                    911-7C37-020
+911-7C60-005                    911-7C60-005
+A520M S2H                          A520M S2H
+B450 AORUS M                    B450 AORUS M
+B460M D3H                          B460M D3H
+B550 AORUS PRO AC          B550 AORUS PRO AC
+B550M AORUS PRO-P          B550M AORUS PRO-P
+B550M S2H                          B550M S2H
+CC-9011173-WW                  CC-9011173-WW
+CMK8GX4M1A2666C16          CMK8GX4M1A2666C16
+CSSD-F1000GBMP600COR    CSSD-F1000GBMP600COR
+GP-ASM2NE6100TTTD          GP-ASM2NE6100TTTD
+MCS-S400-KN5N-S00          MCS-S400-KN5N-S00
+MZ-N6E250BW                      MZ-N6E250BW
+MZ-V8P1T0BW                      MZ-V8P1T0BW
+NXLite030                          NXLite030
+ST8000VX004                      ST8000VX004
+WD1003FZEX                        WD1003FZEX
+WD4005FZBX                        WD4005FZBX
+X570 AORUS ULTRA            X570 AORUS ULTRA
+Z390 UD                              Z390 UD
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Elementos que vuelven a estar disponibles: 16
+id_item
+90-MXBBK0-A0UAYZ            90-MXBBK0-A0UAYZ
+90MB11M0-M0EAY0              90MB11M0-M0EAY0
+90MB1810-M0EAY1              90MB1810-M0EAY1
+AX4U3200716G16A-DT50    AX4U3200716G16A-DT50
+B460M D3H                          B460M D3H
+CMK32GX4M2A2400C16        CMK32GX4M2A2400C16
+GP-P1000GM                        GP-P1000GM
+HX432C16PB3AK2/32          HX432C16PB3AK2/32
+HX436C18FB3AK2/64          HX436C18FB3AK2/64
+MCS-S400-KN5N-S00          MCS-S400-KN5N-S00
+NXLite030                          NXLite030
+PH-EC600PSC_BK01            PH-EC600PSC_BK01
+PVB48G300C6K                    PVB48G300C6K
+ST6000DM003                      ST6000DM003
+ST8000VX004                      ST8000VX004
+VCQP1000V2-PB                  VCQP1000V2-PB
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Componentes nuevos: 1
+562    R4-LUS-07AB-GP
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Componentes sin stock: 18
+2083                   MCS-S400-KG5N-S00
+2084                    CA-1P8-00M1WN-00
+2085                    CL-F077-PL14SW-A
+2086           FD-PSU-ION-SFX-650G-BK-EU
+2087    ZT-A30600F-10P / 90MB11N0-M0EAY0
+2088                      100-GD-0700-V1
+2089                           7D09-003R
+2090                               XF140
+2091                        11295-05-20G
+2092                               83281
+2093                     90YV0DP1-M0NM00
+2094                     AK-340106-020-S
+2095                      CT500MX500SSD4
+2096                  MCB-B311L-KGNN-S01
+2097                            WD30EFRX
+2098                            WD80EFAX
+2099    ZT-A30600F-10P / 90YE00D1-B0NA00
+2100                                   0
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------

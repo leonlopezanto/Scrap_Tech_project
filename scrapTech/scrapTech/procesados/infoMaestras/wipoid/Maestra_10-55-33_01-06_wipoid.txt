@@ -1,0 +1,185 @@
+********************************************************************************************
+Fecha de creacion: Maestra_10-55-33_01-06_wipoid.txt
+********************************************************************************************
+WEB: wipoid
+Maestra: 08-55-19_01-06_maestra_wipoid.json
+Entrante: ./wipoid/10-55_01-06_wipoid.json
+
+-----WARNING: Elementos duplicados en entrante -----
+
+              id_item                         nombre
+1605  90MB14D0-M0EAY0  Asus Prime B550M-A WiFi M-ATX
+
+----------------------------------------
+
+------------------------------------------------------------------------------------------
+Componentes que han cambiado el precio: 44
+Suben de precio: 2
+id_item
+MCB-NR200P-WGNN-S00    MCB-NR200P-WGNN-S00
+TM8FP5001T0C110            TM8FP5001T0C110
+Name: id_item, dtype: object
+Bajan de precio: 42
+id_item
+100-100000087WOF              100-100000087WOF
+24073                                    24073
+24G-P5-3987-KR                  24G-P5-3987-KR
+911-7C60-005                      911-7C60-005
+911-7C91-002                      911-7C91-002
+BGW39                                    BGW39
+BX8070110600KF                  BX8070110600KF
+BX8070110700KF                  BX8070110700KF
+C11CG32403                          C11CG32403
+CMK16GX4M2A2666C16W        CMK16GX4M2A2666C16W
+CMK32GX4M2A2666C16          CMK32GX4M2A2666C16
+CMK64GX4M2E3200C16          CMK64GX4M2E3200C16
+CMW32GX4M4D3600C18          CMW32GX4M4D3600C18
+CSSD-F500GBMP600              CSSD-F500GBMP600
+DY-1                                      DY-1
+F4-3200C16Q-64GVK            F4-3200C16Q-64GVK
+F4-3600C17Q-64GTZR          F4-3600C17Q-64GTZR
+F4-3600C18Q-64GTZN          F4-3600C18Q-64GTZN
+F4-3600C18Q2-256GTZN      F4-3600C18Q2-256GTZN
+FD-C-DEF7A-09                    FD-C-DEF7A-09
+FD-C-DEF7X-01                    FD-C-DEF7X-01
+FD-C-DEF7X-02                    FD-C-DEF7X-02
+FD-C-VER1A-02                    FD-C-VER1A-02
+FD-CA-DEF-S2V-RGB-BK      FD-CA-DEF-S2V-RGB-BK
+FD-CA-FOCUS-BU-W              FD-CA-FOCUS-BU-W
+FD-CA-FOCUS-GY-W              FD-CA-FOCUS-GY-W
+FD-CA-MESH-C-BKO-TG        FD-CA-MESH-C-BKO-TG
+G99.LAN2MPX.00                  G99.LAN2MPX.00
+GAZ59UDAC-00-G                  GAZ59UDAC-00-G
+HX432C16FB3AK2/16            HX432C16FB3AK2/16
+HX432C16PB3/32                  HX432C16PB3/32
+HX432C16PB3K2/16              HX432C16PB3K2/16
+HX432C16PB3K2/32              HX432C16PB3K2/32
+HX436C18FB3K4/128            HX436C18FB3K4/128
+MCB-B511D-KGNN-RGB          MCB-B511D-KGNN-RGB
+MCB-B520-KANN-S01            MCB-B520-KANN-S01
+MCC-C700P-KG5N-S00          MCC-C700P-KG5N-S00
+MCM-H500M-IHNN-S00          MCM-H500M-IHNN-S00
+MCS-S400-KN5N-S00            MCS-S400-KN5N-S00
+SKC600/1024G                      SKC600/1024G
+ST14000NE0008                    ST14000NE0008
+TF4D416G3200HC16CDC01    TF4D416G3200HC16CDC01
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Elementos que vuelven a estar disponibles: 16
+id_item
+BFC-NVM-300-WWGKW-4A    BFC-NVM-300-WWGKW-4A
+BX8070110600                    BX8070110600
+CA-1E7-00M1WN-05            CA-1E7-00M1WN-05
+CMK64GX4M2E3200C16        CMK64GX4M2E3200C16
+CMT16GX4M2C3600C18        CMT16GX4M2C3600C18
+CMT32GX4M4C3000C15        CMT32GX4M4C3000C15
+CMW32GX4M4D3600C18        CMW32GX4M4D3600C18
+CSSD-F8000GBMP400          CSSD-F8000GBMP400
+F4-3600C18Q2-256GTZN    F4-3600C18Q2-256GTZN
+GP-P1000GM                        GP-P1000GM
+HX436C18FB3K4/128          HX436C18FB3K4/128
+PVS464G360C8K                  PVS464G360C8K
+RR-212S-20PC-R1              RR-212S-20PC-R1
+SDSSDA-240G-G26              SDSSDA-240G-G26
+ST14000NE0008                  ST14000NE0008
+TM8FP5001T0C110              TM8FP5001T0C110
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Componentes nuevos: 0
+Series([], Name: id_item, dtype: object)
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Componentes sin stock: 86
+91                        100-W1-0500-K2
+92                        100-W1-0600-K2
+178                        4044951026609
+254                     90-MXB5R0-A0UAYZ
+256                     90-MXB6Y0-A0UAYZ
+261                     90-MXB920-A0UAYZ
+262                     90-MXB9B0-A0UAYZ
+266                     90-MXB9U0-A0UAYZ
+268                     90-MXB9W0-A0UAYZ
+276                     90-MXBAW0-A0UAYZ
+346                      90MB0YM0-M0EAY0
+348                      90MB0YR0-M0EAYC
+357                      90MB1090-M0EAY0
+511                      90YV0CU0-M0NA00
+512                      90YV0CU2-M0NA00
+690                  AX4U300038G16A-ST41
+835                        BX80684I39100
+836                        BX80684I59400
+840                       BX80684I79700F
+981                        CC-9011188-WW
+1363           FD-CA-MESH-C-MINI-BKO-TGD
+1391                      GAB45ARSE-00-G
+1532                   MCS-S600-KN5N-S00
+1555                       MZ-76E500B/EU
+1740                         PHALANX_RGB
+1988                         WDS240G2G0A
+2011         Z390 AORUS XTREME WATERFOCE
+2036                        ZA480CV1A001
+2062                      ZT-T16620D-10M
+2063                      ZT-T16620F-10L
+2065                      ZT-T20600F-10M
+2077                    FD-P-IA2G-650-EU
+2078                       3830046995735
+2079                     90LM05B0-B02170
+2080                      LC49G95TSSUXEN
+2081                 P-SDU256V11100EL-GE
+2082                     90MB15K0-M0EAY0
+2083                     90MB1800-M0EAY0
+2084                    90-MXB5Q0-A0UAYZ
+2085                BFC-ARA-300-WKWKK-RP
+2086                BFC-COM-100-KKWS1-RP
+2087                BFC-COM-100-WWWK1-RP
+2088                       CC-9011105-WW
+2089                 CMK32GX4M2B3000C15W
+2090                              CR-H5A
+2091                FD-CA-DEF-MINI-C-BK-
+2092                       MZ-76E250B/EU
+2093                     PH-EC416PSTG_AG
+2094                      PH-ES614LTG_BK
+2095                    PSICC-DVI2-BK-10
+2096                    SSD7CS900-120-PB
+2097                          SSR-1000TR
+2098                           IGG311820
+2099                           IGG312186
+2100                         KVR16LS11/4
+2101                     SDSSDA-120G-G27
+2102                     90YV0EI2-M0NA00
+2103    ZT-A30600H-10M / 90YE00D1-B0NA00
+2104                      MPE-6501-ACABW
+2105                         B550M-A PRO
+2106                       Z490 VISION D
+2107             AXRX 5500XT 8GBD6-DH/OC
+2108                      BX80684I59500F
+2109                   MPE-6001-ACAAB-EU
+2110      ZT-T16600K-10M/90YE00D1-B0NA00
+2111    ZT-T16620F-10L / 90YE00D1-B0NA00
+2112                      DVI-D-M/HDMI-M
+2113    ZT-A30700J-10P / 90YE00D1-B0NA00
+2114                   MCS-S400-KG5N-S00
+2115                    CA-1P8-00M1WN-00
+2116                    CL-F077-PL14SW-A
+2117           FD-PSU-ION-SFX-650G-BK-EU
+2118    ZT-A30600F-10P / 90MB11N0-M0EAY0
+2119                      100-GD-0700-V1
+2120                           7D09-003R
+2121                               XF140
+2122                        11295-05-20G
+2123                               83281
+2124                     90YV0DP1-M0NM00
+2125                     AK-340106-020-S
+2126                      CT500MX500SSD4
+2127                  MCB-B311L-KGNN-S01
+2128                            WD30EFRX
+2129                            WD80EFAX
+2130    ZT-A30600F-10P / 90YE00D1-B0NA00
+2131                                   0
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------

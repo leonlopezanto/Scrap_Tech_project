@@ -1,0 +1,70 @@
+********************************************************************************************
+Fecha de extraccion: Scrap_14-02_28-05.txt
+Araña:
+	wipoid
+	pccomponentes
+
+WEB: Tiempo de extraccion: 111.50693790912628
+********************************************************************************************
+
+
+
+------------------------------------Datos de limpieza de :./pccomponentes/14-02_28-05_pccomponentes.json
+
+
+Numero de reacondicionados: 182
+No hay campos nulos
+
+Informacion duplicados:
+ 
+            id_item                                             nombre
+4775  CX-9020005-WW  Corsair Hydro X Series XG7 RGB 20-Series (2080...
+
+
+Informacion dataset:
+
+
+Descripcion:
+            precio
+count  5216.000000
+mean    142.689868
+std     244.297809
+min       0.670000
+25%      45.590000
+50%      87.315000
+75%     159.600000
+max    7171.980000
+
+Numero de filas: 5216
+
+Numero de columnas: 8
+
+
+
+------------------------------------Datos de limpieza de :./wipoid/14-02_28-05_wipoid.json
+
+No hay campos nulos
+
+Informacion duplicados:
+ 
+              id_item                         nombre
+1625  90MB14D0-M0EAY0  Asus Prime B550M-A WiFi M-ATX
+
+
+Informacion dataset:
+
+
+Descripcion:
+            precio
+count  2067.000000
+mean    168.606851
+std     284.413453
+min       1.200000
+25%      57.925000
+50%      99.000000
+75%     176.500000
+max    5629.000000
+
+Numero de filas: 2067
+
+Numero de columnas: 7

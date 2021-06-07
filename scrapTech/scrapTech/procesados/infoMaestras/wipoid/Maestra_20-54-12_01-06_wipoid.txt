@@ -1,0 +1,132 @@
+********************************************************************************************
+Fecha de creacion: Maestra_20-54-12_01-06_wipoid.txt
+********************************************************************************************
+WEB: wipoid
+Maestra: 18-55-14_01-06_maestra_wipoid.json
+Entrante: ./wipoid/20-54_01-06_wipoid.json
+
+-----WARNING: Elementos duplicados en entrante -----
+
+              id_item                         nombre
+1612  90MB14D0-M0EAY0  Asus Prime B550M-A WiFi M-ATX
+
+----------------------------------------
+
+------------------------------------------------------------------------------------------
+Componentes que han cambiado el precio: 3
+Suben de precio: 2
+id_item
+4044951019304            4044951019304
+CSSD-F960GBMP510B    CSSD-F960GBMP510B
+Name: id_item, dtype: object
+Bajan de precio: 1
+id_item
+WD2003FZEX    WD2003FZEX
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Elementos que vuelven a estar disponibles: 2
+id_item
+4044951019304            4044951019304
+CSSD-F960GBMP510B    CSSD-F960GBMP510B
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Componentes nuevos: 3
+1841        V9-SILVER
+1842         V4SILVER
+1843    4044951032006
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Componentes sin stock: 85
+2051                       ZP1000GM30011
+2052                      100-W1-0500-K2
+2053                      100-W1-0600-K2
+2054                       4044951026609
+2055                    90-MXB5R0-A0UAYZ
+2056                    90-MXB6Y0-A0UAYZ
+2057                    90-MXB920-A0UAYZ
+2058                    90-MXB9B0-A0UAYZ
+2059                    90-MXB9U0-A0UAYZ
+2060                    90-MXB9W0-A0UAYZ
+2061                    90-MXBAW0-A0UAYZ
+2062                     90MB0YM0-M0EAY0
+2063                     90MB0YR0-M0EAYC
+2064                     90MB1090-M0EAY0
+2065                     90YV0CU0-M0NA00
+2066                     90YV0CU2-M0NA00
+2067                 AX4U300038G16A-ST41
+2068                       BX80684I39100
+2069                       BX80684I59400
+2070                      BX80684I79700F
+2071                       CC-9011188-WW
+2072           FD-CA-MESH-C-MINI-BKO-TGD
+2073                      GAB45ARSE-00-G
+2074                   MCS-S600-KN5N-S00
+2075                       MZ-76E500B/EU
+2076                         PHALANX_RGB
+2077                         WDS240G2G0A
+2078         Z390 AORUS XTREME WATERFOCE
+2079                      ZT-T16620D-10M
+2080                      ZT-T16620F-10L
+2081                      ZT-T20600F-10M
+2082                       3830046995735
+2083                     90LM05B0-B02170
+2084                      LC49G95TSSUXEN
+2085                 P-SDU256V11100EL-GE
+2086                     90MB15K0-M0EAY0
+2087                     90MB1800-M0EAY0
+2088                    90-MXB5Q0-A0UAYZ
+2089                BFC-ARA-300-WKWKK-RP
+2090                BFC-COM-100-KKWS1-RP
+2091                BFC-COM-100-WWWK1-RP
+2092                       CC-9011105-WW
+2093                 CMK32GX4M2B3000C15W
+2094                              CR-H5A
+2095                FD-CA-DEF-MINI-C-BK-
+2096                       MZ-76E250B/EU
+2097                     PH-EC416PSTG_AG
+2098                      PH-ES614LTG_BK
+2099                    PSICC-DVI2-BK-10
+2100                    SSD7CS900-120-PB
+2101                          SSR-1000TR
+2102                           IGG311820
+2103                           IGG312186
+2104                         KVR16LS11/4
+2105                     SDSSDA-120G-G27
+2106                     90YV0EI2-M0NA00
+2107    ZT-A30600H-10M / 90YE00D1-B0NA00
+2108                      MPE-6501-ACABW
+2109                         B550M-A PRO
+2110                       Z490 VISION D
+2111             AXRX 5500XT 8GBD6-DH/OC
+2112                      BX80684I59500F
+2113                   MPE-6001-ACAAB-EU
+2114      ZT-T16600K-10M/90YE00D1-B0NA00
+2115    ZT-T16620F-10L / 90YE00D1-B0NA00
+2116                      DVI-D-M/HDMI-M
+2117    ZT-A30700J-10P / 90YE00D1-B0NA00
+2118                   MCS-S400-KG5N-S00
+2119                    CA-1P8-00M1WN-00
+2120                    CL-F077-PL14SW-A
+2121           FD-PSU-ION-SFX-650G-BK-EU
+2122    ZT-A30600F-10P / 90MB11N0-M0EAY0
+2123                      100-GD-0700-V1
+2124                           7D09-003R
+2125                               XF140
+2126                        11295-05-20G
+2127                               83281
+2128                     90YV0DP1-M0NM00
+2129                     AK-340106-020-S
+2130                      CT500MX500SSD4
+2131                  MCB-B311L-KGNN-S01
+2132                            WD30EFRX
+2133                            WD80EFAX
+2134    ZT-A30600F-10P / 90YE00D1-B0NA00
+2135                                   0
+Name: id_item, dtype: object
+------------------------------------------------------------------------------------------
